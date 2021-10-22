@@ -16,7 +16,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/etf/profile/VT) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .08% | .09% |
 
-| &nbsp; &emsp; Stock index &nbsp; &emsp; | &ensp; Allocation &ensp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &nbsp; B. Fee &nbsp; | &nbsp; V. Fee &nbsp; | &nbsp; S. Fee &nbsp; |
+| &ensp; &emsp; Stock index &ensp; &emsp; | &ensp; Allocation &ensp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &nbsp; B. Fee &nbsp; | &nbsp; V. Fee &nbsp; | &nbsp; S. Fee &nbsp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/etf/profile/VT) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .08% | .09% |
 
