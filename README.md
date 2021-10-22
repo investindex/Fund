@@ -76,7 +76,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/etf/profile/VT) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .08% | .09% |
 
-| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &emsp; &nbsp; Schwab &emsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &ensp; &nbsp; Schwab &ensp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/etf/profile/VT) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .08% | .09% |
 
