@@ -26,7 +26,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
   <b>One ETF</b>
 </p>
 
-| &nbsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &nbsp; | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/etf/profile/VT) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .08% | .09% |
 | Total US | 100% | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [VTI](https://investor.vanguard.com/etf/profile/VTI) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | .03% | .03% | .03% |
@@ -37,7 +37,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
   <b>Simple ETF portfolio</b>
 </p>
 
-| &nbsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &nbsp; | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Quality | 30% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
 | US Small Cap Value | 35% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/etf/profile/VIOV) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
@@ -50,7 +50,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
   <b>Complex ETF portfolio</b>
 </p>
 
-| &nbsp; &nbsp; &nbsp; &nbsp; Stock index &nbsp; &nbsp; &nbsp; &nbsp; | Allocation | BlackRock | Vanguard | State Street | B. Fee | V. Fee | S. Fee |
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
 | US Small Cap Value | 20% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/etf/profile/VIOV) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
