@@ -169,7 +169,7 @@ These tables summarize stock and bond funds from the largest institutions.
 
 &nbsp;
 
-In addition to [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ), Invesco manages US mid cap ([XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ)) and small cap ([XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ)).
+In addition to [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ), Invesco manages US mid cap ([XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ)) and small cap ([XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ)) quality funds.
 
 There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify) and the additional funds discussed below and in the [first footnote](https://github.com/investindex/Funds#f1).
 
