@@ -86,7 +86,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
   <b>One mutual fund</b>
 </p>
 
-| &emsp; &nbsp; Stock index &nbsp; &emsp; | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total Global | 100% | | [VTWAX](https://investor.vanguard.com/mutual-funds/profile/VTWAX) | | | .10% | |
 | Total US | 100% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | &nbsp; .015% &nbsp; | &nbsp; .04% &nbsp; | &nbsp; .03% &nbsp; |
@@ -97,7 +97,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
   <b>Simple mutual fund portfolio</b>
 </p>
 
-| Stock index | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total US | 30% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
 | US Small Cap Value | 35% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
@@ -110,7 +110,7 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
   <b>Complex mutual fund portfolio</b>
 </p>
 
-| Stock index | Allocation | Fidelity | Vanguard | Schwab | F. Fee | V. Fee | S. Fee |
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total US | 20% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
 | US Small Cap Value | 20% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
