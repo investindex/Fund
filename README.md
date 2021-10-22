@@ -12,7 +12,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 &nbsp;
 
-| IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIII | IIIIIIIIII | IIIIIIIIII | IIIIIIIIII |
+| IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIII | IIIIIIIIIIIIIII | IIIIIIIIIIIIIII |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/etf/profile/VT) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .08% | .09% |
 
