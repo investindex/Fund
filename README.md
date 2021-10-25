@@ -213,7 +213,7 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
   <b>Couch potato portfolio</b>
 </p>
 
-| &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; | &emsp; &emsp; Amount &emsp; &emsp; | &ensp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &ensp; |
+| &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; |
 | :--: | :--: | :--: |
 | Checking account | $8,000 | Potential for immediate use |
 | [Short-term US Treasury bonds - SCHO](https://www.schwabassetmanagement.com/products/scho) | $4,000 | Emergency funds |
