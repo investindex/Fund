@@ -125,7 +125,7 @@ These tables summarize stock and bond funds from the largest institutions.
   <b>Stock funds</b>
 </p>
 
-| oqv | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII |
+| ouv | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIIIII |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Intl Large Cap Value | [VTI](https://investor.vanguard.com/etf/profile/VTI) / [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [SCHB](https://www.schwabassetmanagement.com/products/schb) / [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) | [PBUS](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBUS) |
 
@@ -151,7 +151,7 @@ These tables summarize stock and bond funds from the largest institutions.
   <b>Bond funds</b>
 </p>
 
-| oqv | IIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIII | IIIIIIIIIIIIIIIIIIIIIII |
+| oqv | IIIIIIIIIIIIIIIIIIIIIIIi | IIIIIIIIIIIIIIIIIIIIIIIi | IIIIIIIIIIIIIIIIIIIIIIIi | IIIIIIIIIIIIIIIIIIIIIIIi | IIIIIIIIIIIIIIIIIIIIIIIi | IIIIIIIIIIIIIIIIIIIIIIIi |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Intermed-term US Corp | [VTI](https://investor.vanguard.com/etf/profile/VTI) / [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [SCHB](https://www.schwabassetmanagement.com/products/schb) / [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) | [PBUS](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBUS) |
 
