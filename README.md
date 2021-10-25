@@ -228,7 +228,7 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
   <b>Complex portfolio A</b>
 </p>
 
-| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; Location &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; Amount &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; | 
+| &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | 
 | :--: | :--: | :--: |
 | Checking account | $8,000 | Potential for immediate use |
 | [Global Aggregate Bonds - BNDW](https://investor.vanguard.com/etf/profile/BNDW) | $12,000 | Emergency funds + Near-term funds |
@@ -253,7 +253,7 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
   <b>Complex portfolio B</b>
 </p>
 
-| &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; | &emsp; Amount &emsp; | &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; | 
+| &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | 
 | :--: | :--: | :--: |
 | Checking account | $8,000 | Potential for immediate use |
 | [Short-term Bonds - BSV](https://investor.vanguard.com/etf/profile/BSV) | $4,000 | Further emergency funds |
