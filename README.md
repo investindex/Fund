@@ -1,6 +1,6 @@
 # Fund proposals
 
-For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity and provide options from multiple institutions. The portfolios are based on principles described in the [previous section](https://github.com/investindex/Portfolio). If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund: a total global fund or a total US fund. [Summary tables](https://github.com/investindex/Funds#summary) at the end organize all the funds. I then discuss the limitations of the stock funds from the largest institutions, and show how we can improve upon them with an [example portfolio](https://github.com/investindex/Funds#example-portfolio) of specific stock and bond funds.
+For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity and provide options from multiple institutions. The portfolios are based on principles described in the [previous section](https://github.com/investindex/Portfolio). If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund: a total global fund or a total US fund. [Summary tables](https://github.com/investindex/Fund/blob/main/README.md#summary) at the end organize all the funds. I then discuss the limitations of the stock funds from the largest institutions, and show how we can improve upon them with an [example portfolio](https://github.com/investindex/Fund/blob/main/README.md#example-portfolio) of specific stock and bond funds.
 
 A terminology note: when used here in reference to a fund, the term _Global_ includes the US. The term _International_, abbreviated _Intl_, excludes the US.
 
@@ -173,7 +173,7 @@ Funds from Invesco, the fourth-largest ETF provider, are included.
 
 In addition to [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ), Invesco manages US mid cap ([XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ)) and small cap ([XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ)) quality funds.
 
-There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify) and the additional funds discussed below and in the [first footnote](https://github.com/investindex/Funds#f1).
+There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify) and the additional funds discussed below and in the [first footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
 
 &nbsp;
 
@@ -205,7 +205,7 @@ The stock allocation is: 40% [VT](https://investor.vanguard.com/etf/profile/VT) 
 
 Many people would be well-advised to adjust the allocation to VT upward; few people are suited to a portfolio with less allocation to VT and a stronger value tilt than this. A sound alternative is: 60% [VT](https://investor.vanguard.com/etf/profile/VT) + 11.5% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 5% [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) + 6.5% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 7% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 5% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html).
 
-Complex portfolio B has a different approach to achieving factor tilts. It uses RAFI weighting and, to a lesser degree, equal weighting. See the [first footnote](https://github.com/investindex/Funds#f1) for more on this.
+Complex portfolio B has a different approach to achieving factor tilts. It uses RAFI weighting and, to a lesser degree, equal weighting. See the [first footnote](https://github.com/investindex/Fund/blob/main/README.md#f1) for more on this.
 
 &nbsp;
 
@@ -287,7 +287,7 @@ All sections:
 * [Your psychology](https://github.com/investindex/Psychology)
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
-* [Fund proposals](https://github.com/investindex/Funds)
+* [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
 * [Concerns for the small investor](https://github.com/investindex/Small)
 * [Concerns for the large investor](https://github.com/investindex/Large)
 * [Practical information for execution](https://github.com/investindex/Practical)
