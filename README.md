@@ -8,7 +8,7 @@ A terminology note: when used here in reference to a fund, the term _Global_ inc
 
 ## ETFs
 
-The ETF issuers with the largest total [assets under management](https://www.investopedia.com/terms/a/aum.asp) are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) and [ETF.com](https://www.etf.com/channels/) are great resources for comparing and searching for ETFs. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.
+The ETF issuers with the largest total [assets under management](https://www.investopedia.com/terms/a/aum.asp) are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) and [ETF.com](https://www.etf.com/sections/etf-league-tables.html) are great resources for comparing and searching for ETFs. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.
 
 &nbsp;
 
