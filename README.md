@@ -324,7 +324,7 @@ There are also bond funds in categories not yet discussed. These include mortgag
 
 When deciding on weights for developed vs. emerging markets, keep in mind that all the international single-factor funds that don't have "emerging" in their name invest exclusively in developed countries, except VTRIX.
 
-There are two ETFs for small cap stocks in emerging markets, [EEMS](https://www.ishares.com/us/products/239642/ishares-msci-emerging-markets-smallcap-etf) and [EWX](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-emerging-markets-small-cap-etf-ewx). Without a filter for value or profitability, their high expense ratios suggest that these funds are not worth including at this time. Some would point out that [DGS], a small cap dividend ETF for emerging markets, provides some indirect exposure to value and profitability factors due to the dividend focus.
+There are two ETFs for small cap stocks in emerging markets, [EEMS](https://www.ishares.com/us/products/239642/ishares-msci-emerging-markets-smallcap-etf) and [EWX](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-emerging-markets-small-cap-etf-ewx). Without a filter for value or profitability, their high expense ratios suggest that these funds are not worth including at this time. Some would point out that [DGS](https://www.wisdomtree.com/etfs/equity/dgs), a small cap dividend ETF for emerging markets, provides some indirect exposure to value and profitability factors due to the dividend focus.
 
 BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. [↩](#fn1)
 
