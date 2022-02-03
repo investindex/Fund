@@ -80,9 +80,9 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 | &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total US | 30% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
-| US Small Cap Value | 35% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
-| Developed ex-US | 35% | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [VTMGX](https://investor.vanguard.com/mutual-funds/profile/VTMGX) | [SWISX](https://www.schwabassetmanagement.com/products/swisx) | &nbsp; .035% &nbsp; | &nbsp; .07% &nbsp; | &nbsp; .06% &nbsp; |
-| | | | | | .034% | .061% | .118% |
+| US Small Cap Value | 30% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
+| Total International | 40% | [FTIHX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638) | [VTIAX](https://investor.vanguard.com/mutual-funds/profile/VTIAX) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | &nbsp; .06% &nbsp; | &nbsp; .11% &nbsp; | &nbsp; .08% &nbsp; |
+| | | | | | .044% | .077% | .116% |
 
 &nbsp;
 
