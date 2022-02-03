@@ -30,9 +30,9 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 | &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | US Quality | 30% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
-| US Small Cap Value | 35% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/etf/profile/VIOV) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
-| Total International | 35% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .08% | .30% |
-| | | | | | .140% | .120% | .197% |
+| US Small Cap Value | 30% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/etf/profile/VIOV) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
+| Total International | 40% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .08% | .30% |
+| | | | | | .135% | .116% | .204% |
 
 &nbsp;
 
