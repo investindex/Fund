@@ -93,13 +93,13 @@ The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab 
 | &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
 | Total US | 20% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/mutual-funds/profile/VTSAX) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
-| US Small Cap Value | 20% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
+| US Small Cap Value | 15% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/mutual-funds/profile/VSIAX) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
 | US Mid Cap Value | 15% | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | [VMVAX](https://investor.vanguard.com/mutual-funds/profile/VMVAX) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | .05% | .07% | .07% |
 | US Large Cap Value | 10% | [FLCOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V679) | [VVIAX](https://investor.vanguard.com/mutual-funds/profile/VVIAX) | [SWLVX](https://www.schwabassetmanagement.com/products/swlvx) | .035% | .05% | .035%
-| Intl Large Cap Value | 15% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .35% &nbsp; | &nbsp; .25% &nbsp; |
-| Developed ex-US | 10% | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [VTMGX](https://investor.vanguard.com/mutual-funds/profile/VTMGX) | [SWISX](https://www.schwabassetmanagement.com/products/swisx) | .035% | .07% | .06% |
-| Total Emerging | 10% | [FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) | [VEMAX](https://investor.vanguard.com/mutual-funds/profile/VEMAX) | [SCHE](https://www.schwabassetmanagement.com/products/sche) | &nbsp; .075% &nbsp; | &nbsp; .14% &nbsp; | &nbsp; .11% &nbsp; |
-| | | | | | .094% | .111% | .125% |
+| Intl Large Cap Value | 16% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/mutual-funds/profile/VTRIX) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .35% &nbsp; | &nbsp; .25% &nbsp; |
+| Developed ex-US | 12% | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [VTMGX](https://investor.vanguard.com/mutual-funds/profile/VTMGX) | [SWISX](https://www.schwabassetmanagement.com/products/swisx) | .035% | .07% | .06% |
+| Total Emerging | 12% | [FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) | [VEMAX](https://investor.vanguard.com/mutual-funds/profile/VEMAX) | [SCHE](https://www.schwabassetmanagement.com/products/sche) | &nbsp; .075% &nbsp; | &nbsp; .14% &nbsp; | &nbsp; .11% &nbsp; |
+| | | | | | .097% | .115% | .118% |
 
 &nbsp;
 
