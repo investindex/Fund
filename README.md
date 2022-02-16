@@ -175,7 +175,7 @@ Funds from Invesco, the fourth-largest ETF provider, are included.
 
 In addition to [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ), Invesco manages US mid cap ([XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ)) and small cap ([XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ)) quality funds.
 
-There are also the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify) and the additional funds discussed below and in the [first footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
+There are also the [target maturity date bond funds](https://github.com/investindex/Risk#bond-like-bond-funds), the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-dont-oversimplify), and the additional funds discussed below and in the [first footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
 
 &nbsp;
 
