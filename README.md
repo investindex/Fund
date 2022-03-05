@@ -32,10 +32,10 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 | &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US Quality | 30% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
+| US Quality | 30% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | [DUHP](https://us.dimensional.com/etfs/duhp/us-high-profitability-etf) | .15% | .13% | .22% |
 | US Small Cap Value | 30% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/etf/profile/VIOV) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
 | Total International | 40% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .07% | .30% |
-| | | | | | .135% | .112% | .204% |
+| | | | | | .135% | .112% | .231% |
 
 &nbsp;
 
@@ -45,7 +45,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 | &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | VFQY | .15% | .13% | .13% |
+| US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/etf/profile/VFQY) | [DUHP](https://us.dimensional.com/etfs/duhp/us-high-profitability-etf) | .15% | .13% | .22% |
 | US Small Cap Value | 15% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/etf/profile/VIOV) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
 | US Mid Cap Value | 15% | [IJJ](https://www.ishares.com/us/products/239764/ishares-sp-midcap-400-value-etf) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | .18% | .07% | .15% |
 | US Large Cap Value | 10% | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [VTV](https://investor.vanguard.com/etf/profile/VTV) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | .04% | .04% | .04% |
@@ -53,7 +53,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 | Intl Small Cap Value | 10% | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | .30% | .36% | .36% |
 | Intl Large Cap Value | 10% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | .30% | .25% | .25% |
 | Total Emerging | 10% | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [VWO](https://investor.vanguard.com/etf/profile/VWO) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | .11% | .08% | .11% |
-| | | | | | .189% | .161% | .176% |
+| | | | | | .189% | .161% | .194% |
 
 &nbsp;
 
