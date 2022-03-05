@@ -211,6 +211,8 @@ Many people would be well-advised to adjust the allocation to VT upward; few peo
 
 A simplified version is in the couch potato portfolio: 50% [VT](https://investor.vanguard.com/etf/profile/VT) + 30% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 20% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html). The diversification is not as robust, but those who seek simplicity can achieve excellent geographic and risk factor diversification with only three funds. If someone wanted to add a fourth, the highest marginal benefit probably lies in allocating to [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) (e.g., 5% transferred from AVDV). The weighted average expense ratios of the stock funds are .195% for the first complex portfolio (40% VT), .154% for the second complex portfolio (60% VT), and .182% for the couch potato portfolio (50% VT).
 
+AVUV could potentially be replaced with [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf); AVIV could potentially be replaced with [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf).
+
 Complex portfolio B has a different approach to achieving factor tilts. It uses RAFI weighting and, to a lesser degree, equal weighting. See the [first footnote](https://github.com/investindex/Fund/blob/main/README.md#f1) for more on this. It's mainly presented out of interest, since I prefer the portfolios above.
 
 &nbsp;
