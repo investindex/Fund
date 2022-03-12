@@ -213,7 +213,7 @@ A simplified version is in the couch potato portfolio: 50% [VT](https://investor
 
 The weighted average expense ratios of the stock funds are .195% for the first complex portfolio (40% VT), .154% for the second complex portfolio (60% VT), and .182% for the couch potato portfolio (50% VT). AVUV could potentially be replaced with [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf); AVIV could potentially be replaced with [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf).
 
-Complex portfolio B has a different approach to achieving factor tilts. It uses RAFI weighting and, to a lesser degree, equal weighting. See the [first footnote](https://github.com/investindex/Fund/blob/main/README.md#f1) for more on this. It's mainly presented out of interest, since I prefer the portfolios above.
+Complex portfolio B has a different approach to achieving factor tilts. It uses RAFI weighting and, to a lesser degree, equal weighting. See the [first footnote](https://github.com/investindex/Fund/blob/main/README.md#f1) for more on this. It's mainly presented out of interest, since I think the portfolios above are a better application of the evidence.
 
 &nbsp;
 
