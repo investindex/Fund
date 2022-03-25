@@ -225,8 +225,8 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
 
 | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; |
 | :--: | :--: | :--: |
-| Checking account | $8,000 | Potential for immediate use |
-| [Short-term US Treasury bonds - SCHO](https://www.schwabassetmanagement.com/products/scho) | $4,000 | Emergency funds |
+| Checking account | $5,000 | Potential for immediate use |
+| [Short-term US Treasury bonds - SCHO](https://www.schwabassetmanagement.com/products/scho) | $7,000 | Emergency funds |
 | [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $28,000 | Near-term funds + Long-term funds |
 | [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $30,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $18,000 | Retirement investing (Roth IRA) |
@@ -240,8 +240,8 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
 
 | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | 
 | :--: | :--: | :--: |
-| Checking account | $8,000 | Potential for immediate use |
-| [Global Aggregate Bonds - BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw) | $12,000 | Emergency funds + Near-term funds |
+| Checking account | $5,000 | Potential for immediate use |
+| [Global Aggregate Bonds - BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw) | $15,000 | Emergency funds + Near-term funds |
 | [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $8,000 | Long-term financial goals |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $3,500 | Long-term financial goals |
 | [US Mid Cap Value - RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | $1,500 | Long-term financial goals |
@@ -265,8 +265,8 @@ Complex portfolio B has a different approach to achieving factor tilts. It uses 
 
 | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | 
 | :--: | :--: | :--: |
-| Checking account | $8,000 | Potential for immediate use |
-| [Short-term Bonds - BSV](https://investor.vanguard.com/investment-products/etfs/profile/bsv) | $4,000 | Further emergency funds |
+| Checking account | $5,000 | Potential for immediate use |
+| [Short-term Bonds - BSV](https://investor.vanguard.com/investment-products/etfs/profile/bsv) | $7,000 | Further emergency funds |
 | [Long-Term Bonds - BLV](https://investor.vanguard.com/investment-products/etfs/profile/blv) | $8,000 | Appreciation without high risk |
 | [RAFI US Small Company - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $5,000 | Long-term financial goals |
 | [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $3,500 | Long-term financial goals |
