@@ -8,7 +8,7 @@ A terminology note: when used here in reference to a fund, the term _Global_ inc
 
 &nbsp;
 
-## ETFs
+## ETFs (largest managers)
 
 The ETF issuers with the largest total [assets under management](https://www.investopedia.com/terms/a/aum.asp) are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) and [ETF.com](https://www.etf.com/sections/etf-league-tables.html) are great resources for comparing and searching for ETFs. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.
 
@@ -59,7 +59,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 &nbsp;
 
-## Mutual funds
+## Mutual funds (largest managers)
 
 The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab has a smaller collection but also covers some indices which the first two do not (see RAFI indices in the [previous section](https://github.com/investindex/Portfolio)). Mutual fund offerings are not as diverse, so even the complex portfolio is not as complex as the ETF version. As with ETFs, annual fees are pennies per year for every $100 invested.
 
