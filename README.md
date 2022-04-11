@@ -115,7 +115,7 @@ Although the funds are presented as groups, there is no prize for brand loyalty 
 
 Some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not diverging too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab and Invesco, among others.
 
-See this footnote<sup id="fn1">[[1]](#f1)</sup> for additional funds, including RAFI funds, and the discussion below for other approaches to achieving factor tilts. My preferred approach is exhibited in the example portfolio section, and it's substantively different than the portfolios above.
+See this footnote<sup id="fn1">[[1]](#f1)</sup> for additional funds, and the discussion below for other approaches to achieving factor tilts. My preferred approach is exhibited in the example portfolio section, and it's substantively different than the portfolios above.
 
 &nbsp;
 
