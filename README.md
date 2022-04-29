@@ -238,9 +238,9 @@ A simplified version is in the couch potato portfolio: 50% [VT](https://investor
 | [Short-term US Treasury bonds - VGSH](https://investor.vanguard.com/investment-products/etfs/profile/vgsh) | $5,000 | Emergency funds |
 | [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $10,000 | Appreciation without high risk |
 | [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $12,000 | Long-term financial goals |
-| [Factor-tilted total intl equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $8,000 | Long-term financial goals |
+| [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $8,000 | Long-term financial goals |
 | [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $36,000 | Retirement investing (Roth IRA) |
-| [Factor-tilted total intl equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $24,000 | Retirement investing (Roth IRA) |
+| [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $24,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
 
