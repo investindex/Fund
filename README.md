@@ -213,7 +213,7 @@ Many people would be well-advised to adjust the allocation to VT upward; few peo
 
 A simplified version is in the couch potato portfolio A: 50% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 30% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 20% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html). The diversification is not as robust, but those who seek simplicity can achieve excellent geographic and risk factor diversification with only three funds. If someone wanted to add a fourth, the highest marginal benefit probably lies in allocating to [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) (e.g., 5% transferred from AVDV).
 
-Potential additions to the complex portfolio are discussed in the [advanced topics](https://github.com/investindex/Advanced).
+Potential additions to these portfolios are discussed in the [advanced topics](https://github.com/investindex/Advanced).
 
 &nbsp;
 
