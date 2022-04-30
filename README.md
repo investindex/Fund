@@ -201,7 +201,7 @@ Alpha Architect is a smaller manager that develops [focused factor ETFs](https:/
 
 ## Example portfolio
 
-These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $60,000 in a Roth IRA that one of them has contributed to for several years. In the complex portfolio and the couch potato portfolio A, they keep $20,000 in cash and bonds and the remainder in stocks. Stock funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the couch potato B version, they keep about $23,200 in cash and bonds and the remainder in stocks. Only five funds are used, instead of 15 in the complex portfolio. Importantly for people who prefer simple portfolios, no rebalancing is required in the taxable brokerage account, so they can add new money to the 60/40 allocation fund on a regular basis without having to think about keeping different funds balanced.
+These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $60,000 in a Roth IRA that one of them has contributed to for several years. In the complex portfolio and the couch potato portfolio A, they keep $20,000 in cash and bonds and the remainder in stocks. Stock funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the couch potato B version, they keep about $22,000 in cash and bonds and the remainder in stocks. Only five funds are used, instead of 15 in the complex portfolio. Importantly for people who prefer simple portfolios, no rebalancing is required in the taxable brokerage account, so they can add new money to the 60/40 allocation fund on a regular basis without having to think about keeping different funds balanced.
 
 Couch potato portfolio A is a very simple factor-tilted portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) and 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html).
 
@@ -238,8 +238,8 @@ Potential additions to these portfolios are discussed in the [advanced topics](h
 | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; |
 | :--: | :--: | :--: |
 | Checking account | $5,000 | Potential for immediate use |
-| [Short-term US Treasury bonds - SCHO](https://www.schwabassetmanagement.com/products/scho) | $7,000 | Emergency funds |
-| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $28,000 | Near-term funds + Long-term funds |
+| [Short-term US Treasury bonds - SCHO](https://www.schwabassetmanagement.com/products/scho) | $5,000 | Emergency funds |
+| [60/40 Allocation - AOR](https://www.ishares.com/us/products/239756/ishares-growth-allocation-etf) | $30,000 | Near-term funds + Long-term financial goals |
 | [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $30,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $18,000 | Retirement investing (Roth IRA) |
 | [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $12,000 | Retirement investing (Roth IRA) |
