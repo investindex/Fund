@@ -203,7 +203,7 @@ Alpha Architect is a smaller manager that develops [focused factor ETFs](https:/
 
 These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $60,000 in a Roth IRA that one of them has contributed to for several years. In the complex portfolio and the couch potato portfolio A, they keep $20,000 in cash and bonds and the remainder in stocks. Stock funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the couch potato B version, they keep about $22,000 in cash and bonds and the remainder in stocks. Only five funds are used, instead of 15 in the complex portfolio. Importantly for people who prefer simple portfolios, no rebalancing is required in the taxable brokerage account, so they can add new money to the 60/40 allocation fund on a regular basis without having to think about keeping different funds balanced.
 
-Couch potato portfolio A is a very simple factor-tilted portfolio: 55% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) and 45% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html). We can make this even simpler once Avantis or DFA launches a [global equity](https://us.dimensional.com/funds/global-equity) ETF.
+Couch potato portfolio A is a very simple factor-tilted portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) and 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html). We can make this even simpler once Avantis or DFA launches a [global equity](https://us.dimensional.com/funds/global-equity) ETF.
 
 The stocks in the complex portfolio are allocated roughly 59% US, 29.5% developed ex-US, and 11.5% emerging. This is very close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include nearly all global stocks to some degree by using VT as the core.
 
@@ -224,10 +224,10 @@ Potential additions to these portfolios are discussed in the [advanced topics](h
 | Checking account | $5,000 | Potential for immediate use |
 | [Short-term US Treasury bonds - VGSH](https://investor.vanguard.com/investment-products/etfs/profile/vgsh) | $5,000 | Emergency funds |
 | [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $10,000 | Appreciation without high risk |
-| [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $11,000 | Long-term financial goals |
-| [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $9,000 | Long-term financial goals |
-| [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $33,000 | Retirement investing (Roth IRA) |
-| [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $27,000 | Retirement investing (Roth IRA) |
+| [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $12,000 | Long-term financial goals |
+| [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $8,000 | Long-term financial goals |
+| [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $36,000 | Retirement investing (Roth IRA) |
+| [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $24,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
 
