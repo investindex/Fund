@@ -304,7 +304,7 @@ Potential additions to these portfolios are discussed in the [advanced topics](h
 
 &nbsp;
 
-[Click here for the next section — Concerns for the small investor](https://github.com/investindex/Small)
+[Click here for the next section — Concerns for the small/large investor](https://github.com/investindex/Small)
 
 &nbsp;
 
