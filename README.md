@@ -213,11 +213,7 @@ The stock allocation is: 40% [VT](https://investor.vanguard.com/investment-produ
 
 A simplified version is in the couch potato portfolio B: 50% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 30% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 20% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html). The diversification is [not as robust](https://www.youtube.com/watch?v=EJMDLS6xCz8&t=4979s), but those who seek simplicity can achieve excellent geographic and risk factor diversification with only three funds. If someone wanted to add a fourth, the highest marginal benefit probably lies in allocating to [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) (e.g., 5% transferred from AVDV).
 
-Potential additions to these portfolios are discussed in the [advanced topics](https://github.com/investindex/Advanced).
-
-<!--
-RFV diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL.
--->
+Potential additions to these portfolios are discussed in the [advanced topics](https://github.com/investindex/Advanced). A reader might wonder why the portfolios in previous sections had mid cap funds, while the complex portfolio here does not. Avantis and DFA don't use a mid cap categorization: their small cap and large cap funds cover the entire range of market capitalizations. So nothing is missing. However, if you wanted to add more weight to mid cap stocks, you could add [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) to the complex portfolio. RFV diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL.
 
 &nbsp;
 
