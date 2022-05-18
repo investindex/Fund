@@ -203,7 +203,7 @@ Alpha Architect is a smaller manager that develops [focused factor ETFs](https:/
 
 ## Example portfolio
 
-These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $60,000 in a Roth IRA that one of them has contributed to for several years. In the complex portfolio and the couch potato portfolio A, they keep $20,000 in cash and bonds and the remainder in stocks. Stock funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the couch potato B version, they keep about $22,000 in cash and bonds and the remainder in stocks. Only five funds are used, instead of 15 in the complex portfolio. Importantly for people who prefer simple portfolios, no rebalancing is required in the taxable brokerage account, so they can add new money to the 60/40 allocation fund on a regular basis without having to think about keeping different funds balanced.
+These examples are for a hypothetical married couple, both age 35 and earning income, who rent their residence and have no debt. Their combined liquid net worth is $40,000 plus $60,000 in a Roth IRA that one of them has contributed to for several years. In the complex portfolio and the couch potato portfolio A, they keep $20,000 in cash and bonds and the remainder in stocks. Stock funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the couch potato B version, they keep about $22,000 in cash and bonds and the remainder in stocks. Only five funds are used, instead of 13 in the complex portfolio. Importantly for people who prefer simple portfolios, no rebalancing is required in the taxable brokerage account, so they can add new money to the 60/40 allocation fund on a regular basis without having to think about keeping different funds balanced.
 
 Couch potato portfolio A is a very simple factor-tilted portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) and 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html). We can make this even simpler once Avantis or DFA launches a [global equity](https://us.dimensional.com/funds/global-equity) ETF.
 
@@ -257,19 +257,17 @@ Potential additions to these portfolios are discussed in the [advanced topics](h
 | Checking account | $5,000 | Potential for immediate use |
 | [Global Aggregate Bonds - BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw) | $15,000 | Emergency funds + Near-term funds |
 | [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $8,000 | Long-term financial goals |
-| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $3,500 | Long-term financial goals |
-| [US Mid Cap Value - RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | $1,500 | Long-term financial goals |
-| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $2,000 | Long-term financial goals |
-| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $2,000 | Long-term financial goals |
-| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $1,500 | Long-term financial goals |
-| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $1,500 | Long-term financial goals |
+| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $4,200 | Long-term financial goals |
+| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $2,800 | Long-term financial goals |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $2,200 | Long-term financial goals |
+| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $1,400 | Long-term financial goals |
+| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $1,400 | Long-term financial goals |
 | [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $24,000 | Retirement investing (Roth IRA) |
-| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $10,500 | Retirement investing (Roth IRA) |
-| [US Mid Cap Value - RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) | $4,500 | Retirement investing (Roth IRA) |
-| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $6,000 | Retirement investing (Roth IRA) |
-| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $6,000 | Retirement investing (Roth IRA) |
-| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
-| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
+| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $12,600 | Retirement investing (Roth IRA) |
+| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $8,400 | Retirement investing (Roth IRA) |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $6,600 | Retirement investing (Roth IRA) |
+| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
+| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
 
 &nbsp;
 
