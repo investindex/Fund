@@ -215,6 +215,10 @@ A simplified version is in the couch potato portfolio B: 50% [VT](https://invest
 
 Potential additions to these portfolios are discussed in the [advanced topics](https://github.com/investindex/Advanced).
 
+<!--
+RFV diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL.
+-->
+
 &nbsp;
 
 <p align="center">
