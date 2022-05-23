@@ -302,7 +302,7 @@ Potential additions to these portfolios are discussed in the [advanced topics](h
 
 &nbsp;
 
-[Click here for the next section — Concerns for the small/large investor](https://github.com/investindex/Small)
+[Click here for the next section — Your psychology](https://github.com/investindex/Psychology)
 
 &nbsp;
 
@@ -311,12 +311,12 @@ All sections:
 * [Cover page](https://github.com/investindex/Intro)
 * [Introduction to index funds](https://github.com/investindex/Index)
 * [Thinking about risk](https://github.com/investindex/Risk)
-* [Your psychology](https://github.com/investindex/Psychology)
 * [Tax-advantaged accounts](https://github.com/investindex/TaxAdv)
 * [Guidelines for financial planning](https://github.com/investindex/Guidelines)
 * [Investing for retirement](https://github.com/investindex/Retirement)
 * [Building a stock portfolio](https://github.com/investindex/Portfolio)
 * [Fund proposals](https://github.com/investindex/Fund/blob/main/README.md)
+* [Your psychology](https://github.com/investindex/Psychology)
 * [Concerns for the small/large investor](https://github.com/investindex/Small)
 * [Practical information for execution](https://github.com/investindex/Practical)
 * [Taxes](https://github.com/investindex/Taxes)
