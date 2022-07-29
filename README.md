@@ -2,7 +2,7 @@
 
 For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity and provide options from multiple institutions. The portfolios are based on principles described in the [previous section](https://github.com/investindex/Portfolio). If an institution lacks a fund to fill a given row's category, it will either be left blank or filled in with a suggested fund from another institution. The simplest portfolios are a single fund: a total global fund or a total US fund. [Summary tables](https://github.com/investindex/Fund/blob/main/README.md#summary) at the end organize all the funds from large institutions.
 
-I then discuss the [limitations](https://github.com/investindex/Fund/blob/main/README.md#beyond-mainstream-factor-funds) of the stock funds from the largest institutions, and show how we can improve upon them with an [example portfolio](https://github.com/investindex/Fund/blob/main/README.md#example-portfolio) of specific stock and bond funds.
+I then discuss the [limitations](https://github.com/investindex/Fund/blob/main/README.md#beyond-mainstream-factor-funds) of the stock funds from the largest institutions, and show how we can improve upon them with an [example portfolio](https://github.com/investindex/Fund/blob/main/README.md#example-portfolio) of specific stock and bond funds, mainly from Avantis and Dimensional Fund Advisors (DFA).
 
 A terminology note: when used here in reference to a fund, the term _Global_ includes the US. The term _International_, abbreviated _Intl_, excludes the US.
 
