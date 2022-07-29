@@ -225,8 +225,7 @@ Potential additions to these portfolios, including [QVAL](https://etfsite.alphaa
 | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; |
 | :--: | :--: | :--: |
 | Checking account | $5,000 | Potential for immediate use |
-| [Short-term US Treasury bonds - VGSH](https://investor.vanguard.com/investment-products/etfs/profile/vgsh) | $5,000 | Emergency funds |
-| [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $10,000 | Appreciation without high risk |
+| [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $15,000 | Emergency funds + Near-term funds |
 | [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $12,000 | Long-term financial goals |
 | [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $8,000 | Long-term financial goals |
 | [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $36,000 | Retirement investing (Roth IRA) |
