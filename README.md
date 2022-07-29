@@ -208,7 +208,7 @@ These simplified examples are for a hypothetical married couple, both age 35 and
 
 Couch potato portfolio A is a very simple factor-tilted portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) and 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html), although it's less factor-tilted than DFAC. We can make this portfolio even simpler once Avantis or DFA launches a [global equity](https://us.dimensional.com/funds/global-equity) ETF.
 
-The stocks in the complex portfolio have a geographic allocation that is close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include nearly all global stocks to some degree by using VT as the core. We add long-term US Treasury [STRIPS](https://www.investopedia.com/terms/t/treasurystrips.asp) for bonds with minimal credit risk and very high interest rate risk.
+The stocks in the complex portfolio have a geographic allocation that is close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include nearly all global stocks to some degree by using VT as the core. We add long-term US Treasury [STRIPS](https://www.investopedia.com/terms/t/treasurystrips.asp) for bonds with minimal credit risk and very high interest rate risk. See the [section on taxes](https://github.com/investindex/Taxes#tax-efficient-investing) for the minor tax incentive you have to split VT into total US and total international funds in taxable accounts (but _not_ in tax-advantaged accounts).
 
 The long-term allocation is: 20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 21% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 14% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 11% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 7% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 7% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 20% [EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv). Investment recommendations should be personalized, but if I were to make a recommendation for a disciplined investor's long-term portfolio, it would be something like this. AVUV could potentially be replaced (or combined) with [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf); AVLV with [DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf); AVDV with [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf); AVIV with [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf); and AVES with [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf). Some people would be well-advised to adjust the allocation to VT upward; few people are suited to a portfolio with less allocation to VT and a stronger value tilt. An alternative would be to increase VT to 40% and dial down the other stock funds proportionately.
 
@@ -256,21 +256,22 @@ Potential additions to these portfolios, including [QVAL](https://etfsite.alphaa
 | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | 
 | :--: | :--: | :--: |
 | Checking account | $5,000 | Potential for immediate use |
-| [Global Aggregate Bonds - BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw) | $15,000 | Emergency funds + Near-term funds |
-| [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $4,000 | Long-term financial goals |
+| [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $15,000 | Emergency funds + Near-term funds |
+| [Total US - VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) | $2,400 | Long-term financial goals |
+| [Total International - VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus) | $1,600 | Long-term financial goals |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $4,200 | Long-term financial goals |
 | [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $2,800 | Long-term financial goals |
 | [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $2,200 | Long-term financial goals |
 | [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $1,400 | Long-term financial goals |
 | [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $1,400 | Long-term financial goals |
-| [Long-term US Treasury STRIPS](https://investor.vanguard.com/investment-products/etfs/profile/edv) | $4,000 | Long-term financial goals |
+| [Long-term US Treasury STRIPS - EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv) | $4,000 | Long-term financial goals |
 | [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $12,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $12,600 | Retirement investing (Roth IRA) |
 | [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $8,400 | Retirement investing (Roth IRA) |
 | [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $6,600 | Retirement investing (Roth IRA) |
 | [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
 | [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
-| [Long-term US Treasury STRIPS](https://investor.vanguard.com/investment-products/etfs/profile/edv) | $12,000 | Retirement investing (Roth IRA) |
+| [Long-term US Treasury STRIPS - EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv) | $12,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
 
