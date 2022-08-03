@@ -334,9 +334,9 @@ All sections:
 
 Footnotes:
 
-#### Additional funds and minor comments
+<sup id="f1"> 1 </sup> <b> Additional funds and minor comments <\b>
 
-<sup id="f1"> 1 </sup> The following details are not particularly important except for those people who want to know all their options. This is an info dump.
+The following details are not particularly important except for those people who want to know all their options. This is an info dump.
 
 There are a bunch of options for cap-weighted US funds. Are there any differences between them? Some of their differences can be shown by ranking them by number of holdings: [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) > [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) > [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) > [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) > [SCHB](https://www.schwabassetmanagement.com/products/schb) > [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) > [PBUS](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBUS). VTI is a comprehensive index of the US market, whereas PBUS is effectively a large cap fund (which is why I placed it in that row). SPTM is distinctive, being composed of 1,500 stocks: the S&P 500 (large cap), S&P 400 (mid cap), and S&P 600 (small cap). Not only does this place an artificial cap on the number of stocks included in the fund, but S&P indices exclude unprofitable companies. This had a meaningful effect in 2020, when the price of [Tesla stock](https://finance.yahoo.com/quote/TSLA) increased by 743%. This run-up was captured by true total market funds like VTI and ITOT, as well as broad large cap funds like VV and SCHX, but not by SPTM or S&P 500 index funds ([VOO](https://investor.vanguard.com/investment-products/etfs/profile/voo), [IVV](https://www.ishares.com/us/products/239726/ishares-core-sp-500-etf), [SPY](https://www.ssga.com/us/en/intermediary/etfs/funds/spdr-sp-500-etf-trust-spy)). Tesla wasn't added to the S&P 500 until the end of 2020, after four consecutive quarters of profitable operation. VTI returned 21.05% that year, while SPTM returned 17.87%.
 
