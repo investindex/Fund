@@ -1,186 +1,10 @@
 # Fund proposals
 
-For ETFs and mutual funds separately, I will propose portfolios with increasing levels of complexity and provide options from multiple institutions. The portfolios are based on principles described in the [previous section](https://github.com/investindex/Portfolio). [Summary tables](https://github.com/investindex/Fund/blob/main/README.md#summary) at the end organize all the funds from large institutions.
+The behemoth asset managers I'll review in this section are BlackRock, Vanguard, Fidelity, State Street, Schwab, and Invesco. You may choose to invest some or all of your money with these managers. However, except for straightforward cap-weighted funds, the products offered by the largest managers are not the best funds to build evidence-based portfolios.
 
-I then discuss the [limitations](https://github.com/investindex/Fund/blob/main/README.md#beyond-mainstream-factor-funds) of the funds from the largest institutions, and show how we can improve upon them with an [example portfolio](https://github.com/investindex/Fund/blob/main/README.md#example-portfolio) of specific stock and bond funds, mainly from Avantis and Dimensional Fund Advisors (DFA).
+I'll begin by discussing the limitations of funds from the largest institutions, and we'll cover a specific [example portfolio](https://github.com/investindex/Fund/blob/main/README.md#example-portfolio) with funds from Avantis and Dimensional Fund Advisors (DFA). The portfolios are based on principles described in the [previous section](https://github.com/investindex/Portfolio). [Summary tables](https://github.com/investindex/Fund/blob/main/README.md#summary) organize all the selected funds from the behemoths, followed by suggestions for portfolios you could build with their funds.
 
 A terminology note: when used here in reference to a fund, the term _Global_ includes the US. The term _International_, abbreviated _Intl_, excludes the US.
-
-&nbsp;
-
-## ETFs (largest managers)
-
-The ETF issuers with the largest total [assets under management](https://www.investopedia.com/terms/a/aum.asp) are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) and [ETF.com](https://www.etf.com/sections/etf-league-tables.html) are great resources for comparing and searching for ETFs. Regardless of your choice, the fees are a matter of cents annually for every $100 invested.
-
-&nbsp;
-
-<p align="center">
-  <b>One ETF</b>
-</p>
-
-| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .07% | .09% |
-| | | | | | | | |
-| Total US | 100% | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | .03% | .03% | .03% |
-
-&nbsp;
-
-<p align="center">
-  <b>Simple ETF portfolio</b>
-</p>
-
-| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US Quality | 30% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/investment-products/etfs/profile/vfqy) | [DUHP](https://us.dimensional.com/etfs/duhp/us-high-profitability-etf) | .15% | .13% | .22% |
-| US Small Cap Value | 30% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/investment-products/etfs/profile/viov) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
-| Total International | 40% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .07% | .30% |
-| | | | | | .135% | .112% | .231% |
-
-&nbsp;
-
-<p align="center">
-  <b>Complex ETF portfolio</b>
-</p>
-
-| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/investment-products/etfs/profile/vfqy) | [DUHP](https://us.dimensional.com/etfs/duhp/us-high-profitability-etf) | .15% | .13% | .22% |
-| US Small Cap Value | 15% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/investment-products/etfs/profile/viov) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
-| US Mid Cap Value | 15% | [IJJ](https://www.ishares.com/us/products/239764/ishares-sp-midcap-400-value-etf) | [VOE](https://investor.vanguard.com/investment-products/etfs/profile/voe) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | .18% | .07% | .15% |
-| US Large Cap Value | 10% | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [VTV](https://investor.vanguard.com/investment-products/etfs/profile/vtv) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | .04% | .04% | .04% |
-| International Quality | 10% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [DIHP](https://us.dimensional.com/etfs/dihp/international-high-profitability-etf) | [DIHP](https://us.dimensional.com/etfs/dihp/international-high-profitability-etf) | .30% | .29% | .29% |
-| Intl Small Cap Value | 10% | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | .30% | .36% | .36% |
-| Intl Large Cap Value | 10% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | .30% | .25% | .25% |
-| Total Emerging | 10% | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [VWO](https://investor.vanguard.com/investment-products/etfs/profile/vwo) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | .11% | .08% | .11% |
-| | | | | | .189% | .161% | .194% |
-
-&nbsp;
-
-&nbsp;
-
-## Mutual funds (largest managers)
-
-The leading providers of indexed mutual funds are Fidelity and Vanguard; Schwab has a smaller collection but also covers some indices which the first two do not (see RAFI indices in the [previous section](https://github.com/investindex/Portfolio)). Mutual fund offerings are not as diverse, so even the complex portfolio is not as complex as the ETF version. As with ETFs, annual fees are pennies per year for every $100 invested.
-
-&nbsp;
-
-<p align="center">
-  <b>One mutual fund</b>
-</p>
-
-| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Total Global | 100% | | [VTWAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtwax) | | | .10% | |
-| | | | | | | | |
-| Total US | 100% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | &nbsp; .015% &nbsp; | &nbsp; .04% &nbsp; | &nbsp; .03% &nbsp; |
-
-&nbsp;
-
-<p align="center">
-  <b>Simple mutual fund portfolio</b>
-</p>
-
-| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Total US | 30% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
-| US Small Cap Value | 30% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsiax) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
-| Total International | 40% | [FTIHX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638) | [VTIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtiax) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | &nbsp; .06% &nbsp; | &nbsp; .11% &nbsp; | &nbsp; .07% &nbsp; |
-| | | | | | .044% | .077% | .112% |
-
-&nbsp;
-
-<p align="center">
-  <b>Complex mutual fund portfolio</b>
-</p>
-
-| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Total US | 20% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
-| US Small Cap Value | 15% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsiax) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
-| US Mid Cap Value | 15% | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | [VMVAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vmvax) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | .05% | .07% | .07% |
-| US Large Cap Value | 10% | [FLCOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V679) | [VVIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vviax) | [SWLVX](https://www.schwabassetmanagement.com/products/swlvx) | .035% | .05% | .035%
-| Intl Large Cap Value | 16% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtrix) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .36% &nbsp; | &nbsp; .25% &nbsp; |
-| Developed ex-US | 12% | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [VTMGX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtmgx) | [SWISX](https://www.schwabassetmanagement.com/products/swisx) | .035% | .07% | .06% |
-| Total Emerging | 12% | [FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) | [VEMAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vemax) | [SCHE](https://www.schwabassetmanagement.com/products/sche) | &nbsp; .075% &nbsp; | &nbsp; .14% &nbsp; | &nbsp; .11% &nbsp; |
-| | | | | | .097% | .117% | .118% |
-
-&nbsp;
-
-&nbsp;
-
-## General comments
-
-Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Keep in mind that investing in mutual funds from more than one manager often requires using multiple accounts or paying fees; this is a major advantage of ETFs.
-
-Some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not diverging too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab and Invesco, among others.
-
-See this footnote<sup id="fn1">[[1]](#f1)</sup> for additional funds, and the discussion below for other approaches to achieving factor tilts. My preferred approach is exhibited in the example portfolio section, and it's substantively different than the portfolios above.
-
-&nbsp;
-
-&nbsp;
-
-## Summary
-
-These tables summarize stock and bond funds from the largest institutions.
-
-Funds from Invesco, the fourth-largest ETF provider, are included.
-
-<p align="center">
-  <b>Stock funds</b>
-</p>
-
-| Stock index | &ensp; &nbsp; Vanguard &ensp; &nbsp; | &nbsp; &nbsp; BlackRock &nbsp; &nbsp; | &ensp; State Street &ensp; | &emsp; &nbsp; Fidelity &emsp; &nbsp; | &nbsp; Schwab &nbsp; | &ensp; &nbsp; &nbsp; Invesco &ensp; &nbsp; &nbsp; |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Total US | [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) / [VTSAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax) | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [SCHB](https://www.schwabassetmanagement.com/products/schb) / [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) | |
-| US Large Cap | [VV](https://investor.vanguard.com/investment-products/etfs/profile/vv) / [VLCAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vlcax) | [ILCB](https://www.ishares.com/us/products/239579/ishares-morningstar-largecap-etf) | [SPLG](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-etf-splg) | [FNILX](https://fundresearch.fidelity.com/mutual-funds/summary/315911628) | [SCHX](https://www.schwabassetmanagement.com/products/schx) / [SNXFX](https://www.schwabassetmanagement.com/products/snxfx) | [PBUS](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBUS) |
-| US Quality | [VFQY](https://investor.vanguard.com/investment-products/etfs/profile/vfqy) | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | | [FQAL](https://institutional.fidelity.com/app/funds-and-products/etf/snapshot/FIIS_ETF_FQAL/fidelity-quality-factor-etf.html) | | [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ) |
-| US Small Cap Value | [VIOV](https://investor.vanguard.com/investment-products/etfs/profile/viov) / [VSIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsiax) | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [FNDA](https://www.schwabassetmanagement.com/products/fnda) / [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | [RZV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RZV) |
-| US Mid Cap Value | [VOE](https://investor.vanguard.com/investment-products/etfs/profile/voe) / [VMVAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vmvax) | [IJJ](https://www.ishares.com/us/products/239764/ishares-sp-midcap-400-value-etf) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | | [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) |
-| US Large Cap Value | [VTV](https://investor.vanguard.com/investment-products/etfs/profile/vtv) / [VVIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vviax) | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | [FVAL](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FVAL.html) / [FLCOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V679) | [SCHV](https://www.schwabassetmanagement.com/products/schv) / [SWLVX](https://www.schwabassetmanagement.com/products/swlvx) | [RPV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RPV) + [SPVU](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPVU) |
-| Total International | [VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus) / [VTIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtiax) | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | [FTIHX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638) | | |
-| Developed ex-US | [VEA](https://investor.vanguard.com/investment-products/etfs/profile/vea) / [VTMGX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtmgx) | [IDEV](https://www.ishares.com/us/products/286762/ishares-core-msci-international-developed-markets-etf-fund) | [SPDW](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-developed-world-ex-us-etf-spdw) | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [SCHF](https://www.schwabassetmanagement.com/products/schf) / [SWISX](https://www.schwabassetmanagement.com/products/swisx) | [PBDM](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBDM) |
-| Total Emerging | [VWO](https://investor.vanguard.com/investment-products/etfs/profile/vwo) / [VEMAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vemax) | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | [FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) | [SCHE](https://www.schwabassetmanagement.com/products/sche) | [PBEE](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBEE) |
-| International Quality | | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | | | | [IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) |
-| Intl Small Cap Value | | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | | | [FNDC](https://www.schwabassetmanagement.com/products/fndc) / [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | [PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) |
-| Intl Large Cap Value | [VTRIX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtrix) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [FNDF](https://www.schwabassetmanagement.com/products/fndf) / [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | [ISDX](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=ISDX) + [PXF](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PXF) |
-| Total Global | [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) / [VTWAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtwax) | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | | |
-
-&nbsp;
-
-<p align="center">
-  <b>Bond funds</b>
-</p>
-
-| Bond index | &nbsp; Vanguard &nbsp; | &ensp; BlackRock &ensp; | &nbsp; State Street &nbsp; | &emsp; &nbsp; Fidelity &emsp; &nbsp; | &nbsp; Schwab &nbsp; | &nbsp; &nbsp; &nbsp; Invesco &nbsp; &nbsp; &nbsp; |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| Three-month Treasury | | [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | [BIL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-1-3-month-t-bill-etf-bil) | | | |
-| Ultrashort-term US | [VUSB](https://investor.vanguard.com/investment-products/etfs/profile/vusb) / [VUBFX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vubfx) | [SHV](https://www.ishares.com/us/products/239466/ishares-short-treasury-bond-etf) | [BILS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-3-12-month-t-bill-etf-bils) + [ULST](https://www.ssga.com/us/en/individual/etfs/funds/spdr-ssga-ultra-short-term-bond-etf-ulst) | | | [CLTL](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CLTL) |
-| Short-term Treasury | [VGSH](https://investor.vanguard.com/investment-products/etfs/profile/vgsh) / [VSBSX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsbsx) | [SHY](https://www.ishares.com/us/products/239452/ishares-13-year-treasury-bond-etf) | [SPTS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-short-term-treasury-etf-spts) | [FUMBX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V216) | [SCHO](https://www.schwabassetmanagement.com/products/scho) |
-| Short-term US | [BSV](https://investor.vanguard.com/investment-products/etfs/profile/bsv) / [VBIRX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vbirx) | [ISTB](https://www.ishares.com/us/products/244051/ishares-core-shortterm-us-bond-etf) | | [FNSOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V273) | [SWSBX](https://www.schwabassetmanagement.com/products/swsbx) |
-| Short-term US Corp | [VCSH](https://investor.vanguard.com/investment-products/etfs/profile/vcsh) / [VSCSX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vscsx) | [SLQD](https://www.ishares.com/us/products/258098/ishares-05-year-investment-grade-corporate-bond-etf) + [IGSB](https://www.ishares.com/us/products/239451/ishares-13-year-credit-bond-etf) | [SPSB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-short-term-corporate-bond-etf-spsb) | | [SCHJ](https://www.schwabassetmanagement.com/products/schj) |
-| Intermed-term Treasury | [VGIT](https://investor.vanguard.com/investment-products/etfs/profile/vgit) / [VSIGX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsigx) | [IEI](https://www.ishares.com/us/products/239455/ishares-37-year-treasury-bond-etf) + [IEF](https://www.ishares.com/us/products/239456/ishares-710-year-treasury-bond-etf) | [SPTI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-intermediate-term-treasury-etf-spti) | [FUAMX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V257) | [SCHR](https://www.schwabassetmanagement.com/products/schr) |
-| Intermed-term US | [BIV](https://investor.vanguard.com/investment-products/etfs/profile/biv) / [VBILX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vbilx) | [GVI](https://www.ishares.com/us/products/239464/ishares-intermediate-governmentcredit-bond-etf) + [IMTB](https://www.ishares.com/us/products/285539/ishares-core-5-10-year-usd-bond-etf) | | | |
-| Intermed-term US Corp | [VCIT](https://investor.vanguard.com/investment-products/etfs/profile/vcit) | [IGIB](https://www.ishares.com/us/products/239463/ishares-intermediate-credit-bond-etf) | [SPIB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-intermediate-term-corporate-bond-etf-spib) | | [SCHI](https://www.schwabassetmanagement.com/products/schi) |
-| Aggregate Treasury | | [GOVT](https://www.ishares.com/us/products/239468/ishares-us-treasury-bond-etf) | | | | [PLW](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PLW) |
-| Aggregate US | [BND](https://investor.vanguard.com/investment-products/etfs/profile/bnd) / [VBTLX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vbtlx) | [AGG](https://www.ishares.com/us/products/239458/ishares-core-total-us-bond-market-etf) + [IUSB](https://www.ishares.com/us/products/264615/ishares-core-total-usd-bond-market-etf) | [SPAB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-aggregate-bond-etf-spab) | [FXNAX](https://fundresearch.fidelity.com/mutual-funds/summary/316146356) | [SCHZ](https://www.schwabassetmanagement.com/products/schz) / [SWAGX](https://www.schwabassetmanagement.com/products/swagx) | [PBND](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBND) |
-| Aggregate Global | [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw) | | | | |
-| Aggregate International | [BNDX](https://investor.vanguard.com/investment-products/etfs/profile/bndx) / [VTABX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtabx) | [IAGG](https://www.ishares.com/us/products/279626/ishares-international-aggregate-bond-etf) | | [FBIIX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T732) | |
-| Aggregate US Corp | [VTC](https://investor.vanguard.com/investment-products/etfs/profile/vtc) | [USIG](https://www.ishares.com/us/products/239460/ishares-credit-bond-etf) + [LQD](https://www.ishares.com/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf) | [SPBO](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-corporate-bond-etf-spbo) | | |
-| Long-term Treasury | [VGLT](https://investor.vanguard.com/investment-products/etfs/profile/vglt) / [VLGSX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vlgsx) | [TLH](https://www.ishares.com/us/products/239453/ishares-1020-year-treasury-bond-etf) + [TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf) | [SPTL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-treasury-etf-sptl) | [FNBGX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V232) | [SCHQ](https://www.schwabassetmanagement.com/products/schq) |
-| Long-term US | [BLV](https://investor.vanguard.com/investment-products/etfs/profile/blv) | [ILTB](https://www.ishares.com/us/products/239424/ishares-core-longterm-us-bond-etf) | | |
-| Long-term US Corp | [VCLT](https://investor.vanguard.com/investment-products/etfs/profile/vclt) | [IGLB](https://www.ishares.com/us/products/239423/ishares-10-year-credit-bond-etf) | [SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | | |
-| Long-term US STRIPS | [EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv) | [GOVZ](https://www.ishares.com/us/products/315911/) | | | |
-| High-yield | [VWEHX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vwehx) | [SHYG](https://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf) + [USHY](https://www.ishares.com/us/products/291299/ishares-broad-usd-high-yield-corporate-bond-etf) | [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) | | |
-
-&nbsp;
-
-In addition to [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ), Invesco manages US mid cap ([XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ)) and small cap ([XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ)) quality funds.
-
-There are also the [target maturity date bond funds](https://github.com/investindex/Risk#bond-like-bond-funds), the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking), and the additional funds discussed below and in the [first footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
-
-&nbsp;
 
 &nbsp;
 
@@ -301,7 +125,181 @@ The stocks in the complex portfolio have a geographic allocation that is close t
 
 &nbsp;
 
-Potential additions to these portfolios, including [QVAL](https://etfsite.alphaarchitect.com/qval/) and [IVAL](https://etfsite.alphaarchitect.com/ival/), are discussed in the [advanced topics](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits). A reader might wonder why some of the portfolios above had mid cap funds, while the complex portfolio here does not. Avantis and DFA don't use a mid cap categorization: their small cap and large cap funds cover the entire range of market capitalizations. So nothing is missing. However, if you wanted to add more weight to mid cap stocks, you could add [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) to the complex portfolio. RFV diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL.
+Potential additions to these portfolios, including [QVAL](https://etfsite.alphaarchitect.com/qval/) and [IVAL](https://etfsite.alphaarchitect.com/ival/), are discussed in the [advanced topics](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits). A reader might wonder why some of the portfolios from large asset managers below have mid cap funds, while the complex portfolio here does not. Avantis and DFA don't use a mid cap categorization: their small cap and large cap funds cover the entire range of market capitalizations. So nothing is missing. However, if you wanted to add more weight to mid cap stocks, you could add [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) to the complex portfolio. RFV diversifies implementation and has very little [overlap](https://www.etfrc.com/funds/overlap.php) with AVUV, AVLV, and QVAL.
+
+&nbsp;
+
+&nbsp;
+
+## Summary
+
+These tables summarize stock and bond funds from the largest institutions.
+
+<p align="center">
+  <b>Stock funds</b>
+</p>
+
+| Stock index | &ensp; &nbsp; Vanguard &ensp; &nbsp; | &nbsp; &nbsp; BlackRock &nbsp; &nbsp; | &ensp; State Street &ensp; | &emsp; &nbsp; Fidelity &emsp; &nbsp; | &nbsp; Schwab &nbsp; | &ensp; &nbsp; &nbsp; Invesco &ensp; &nbsp; &nbsp; |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Total US | [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) / [VTSAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax) | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) | [SCHB](https://www.schwabassetmanagement.com/products/schb) / [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) | |
+| US Large Cap | [VV](https://investor.vanguard.com/investment-products/etfs/profile/vv) / [VLCAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vlcax) | [ILCB](https://www.ishares.com/us/products/239579/ishares-morningstar-largecap-etf) | [SPLG](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-etf-splg) | [FNILX](https://fundresearch.fidelity.com/mutual-funds/summary/315911628) | [SCHX](https://www.schwabassetmanagement.com/products/schx) / [SNXFX](https://www.schwabassetmanagement.com/products/snxfx) | [PBUS](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBUS) |
+| US Quality | [VFQY](https://investor.vanguard.com/investment-products/etfs/profile/vfqy) | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | | [FQAL](https://institutional.fidelity.com/app/funds-and-products/etf/snapshot/FIIS_ETF_FQAL/fidelity-quality-factor-etf.html) | | [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ) |
+| US Small Cap Value | [VIOV](https://investor.vanguard.com/investment-products/etfs/profile/viov) / [VSIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsiax) | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [FNDA](https://www.schwabassetmanagement.com/products/fnda) / [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | [RZV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RZV) |
+| US Mid Cap Value | [VOE](https://investor.vanguard.com/investment-products/etfs/profile/voe) / [VMVAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vmvax) | [IJJ](https://www.ishares.com/us/products/239764/ishares-sp-midcap-400-value-etf) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | | [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) |
+| US Large Cap Value | [VTV](https://investor.vanguard.com/investment-products/etfs/profile/vtv) / [VVIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vviax) | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | [FVAL](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FVAL.html) / [FLCOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V679) | [SCHV](https://www.schwabassetmanagement.com/products/schv) / [SWLVX](https://www.schwabassetmanagement.com/products/swlvx) | [RPV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RPV) + [SPVU](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPVU) |
+| Total International | [VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus) / [VTIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtiax) | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | [FTIHX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638) | | |
+| Developed ex-US | [VEA](https://investor.vanguard.com/investment-products/etfs/profile/vea) / [VTMGX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtmgx) | [IDEV](https://www.ishares.com/us/products/286762/ishares-core-msci-international-developed-markets-etf-fund) | [SPDW](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-developed-world-ex-us-etf-spdw) | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [SCHF](https://www.schwabassetmanagement.com/products/schf) / [SWISX](https://www.schwabassetmanagement.com/products/swisx) | [PBDM](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBDM) |
+| Total Emerging | [VWO](https://investor.vanguard.com/investment-products/etfs/profile/vwo) / [VEMAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vemax) | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | [FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) | [SCHE](https://www.schwabassetmanagement.com/products/sche) | [PBEE](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBEE) |
+| International Quality | | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | | | | [IDHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=IDHQ) |
+| Intl Small Cap Value | | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | | | [FNDC](https://www.schwabassetmanagement.com/products/fndc) / [SFILX](https://www.schwabassetmanagement.com/products/sfilx) | [PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) |
+| Intl Large Cap Value | [VTRIX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtrix) | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [FNDF](https://www.schwabassetmanagement.com/products/fndf) / [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | [ISDX](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=ISDX) + [PXF](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PXF) |
+| Total Global | [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) / [VTWAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtwax) | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | | |
+
+&nbsp;
+
+<p align="center">
+  <b>Bond funds</b>
+</p>
+
+| Bond index | &nbsp; Vanguard &nbsp; | &ensp; BlackRock &ensp; | &nbsp; State Street &nbsp; | &emsp; &nbsp; Fidelity &emsp; &nbsp; | &nbsp; Schwab &nbsp; | &nbsp; &nbsp; &nbsp; Invesco &nbsp; &nbsp; &nbsp; |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Three-month Treasury | | [SGOV](https://www.ishares.com/us/products/314116/ishares-0-3-month-treasury-bond-etf) | [BIL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-1-3-month-t-bill-etf-bil) | | | |
+| Ultrashort-term US | [VUSB](https://investor.vanguard.com/investment-products/etfs/profile/vusb) / [VUBFX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vubfx) | [SHV](https://www.ishares.com/us/products/239466/ishares-short-treasury-bond-etf) | [BILS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-bloomberg-barclays-3-12-month-t-bill-etf-bils) + [ULST](https://www.ssga.com/us/en/individual/etfs/funds/spdr-ssga-ultra-short-term-bond-etf-ulst) | | | [CLTL](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=CLTL) |
+| Short-term Treasury | [VGSH](https://investor.vanguard.com/investment-products/etfs/profile/vgsh) / [VSBSX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsbsx) | [SHY](https://www.ishares.com/us/products/239452/ishares-13-year-treasury-bond-etf) | [SPTS](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-short-term-treasury-etf-spts) | [FUMBX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V216) | [SCHO](https://www.schwabassetmanagement.com/products/scho) |
+| Short-term US | [BSV](https://investor.vanguard.com/investment-products/etfs/profile/bsv) / [VBIRX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vbirx) | [ISTB](https://www.ishares.com/us/products/244051/ishares-core-shortterm-us-bond-etf) | | [FNSOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V273) | [SWSBX](https://www.schwabassetmanagement.com/products/swsbx) |
+| Short-term US Corp | [VCSH](https://investor.vanguard.com/investment-products/etfs/profile/vcsh) / [VSCSX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vscsx) | [SLQD](https://www.ishares.com/us/products/258098/ishares-05-year-investment-grade-corporate-bond-etf) + [IGSB](https://www.ishares.com/us/products/239451/ishares-13-year-credit-bond-etf) | [SPSB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-short-term-corporate-bond-etf-spsb) | | [SCHJ](https://www.schwabassetmanagement.com/products/schj) |
+| Intermed-term Treasury | [VGIT](https://investor.vanguard.com/investment-products/etfs/profile/vgit) / [VSIGX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsigx) | [IEI](https://www.ishares.com/us/products/239455/ishares-37-year-treasury-bond-etf) + [IEF](https://www.ishares.com/us/products/239456/ishares-710-year-treasury-bond-etf) | [SPTI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-intermediate-term-treasury-etf-spti) | [FUAMX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V257) | [SCHR](https://www.schwabassetmanagement.com/products/schr) |
+| Intermed-term US | [BIV](https://investor.vanguard.com/investment-products/etfs/profile/biv) / [VBILX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vbilx) | [GVI](https://www.ishares.com/us/products/239464/ishares-intermediate-governmentcredit-bond-etf) + [IMTB](https://www.ishares.com/us/products/285539/ishares-core-5-10-year-usd-bond-etf) | | | |
+| Intermed-term US Corp | [VCIT](https://investor.vanguard.com/investment-products/etfs/profile/vcit) | [IGIB](https://www.ishares.com/us/products/239463/ishares-intermediate-credit-bond-etf) | [SPIB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-intermediate-term-corporate-bond-etf-spib) | | [SCHI](https://www.schwabassetmanagement.com/products/schi) |
+| Aggregate Treasury | | [GOVT](https://www.ishares.com/us/products/239468/ishares-us-treasury-bond-etf) | | | | [PLW](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PLW) |
+| Aggregate US | [BND](https://investor.vanguard.com/investment-products/etfs/profile/bnd) / [VBTLX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vbtlx) | [AGG](https://www.ishares.com/us/products/239458/ishares-core-total-us-bond-market-etf) + [IUSB](https://www.ishares.com/us/products/264615/ishares-core-total-usd-bond-market-etf) | [SPAB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-aggregate-bond-etf-spab) | [FXNAX](https://fundresearch.fidelity.com/mutual-funds/summary/316146356) | [SCHZ](https://www.schwabassetmanagement.com/products/schz) / [SWAGX](https://www.schwabassetmanagement.com/products/swagx) | [PBND](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PBND) |
+| Aggregate Global | [BNDW](https://investor.vanguard.com/investment-products/etfs/profile/bndw) | | | | |
+| Aggregate International | [BNDX](https://investor.vanguard.com/investment-products/etfs/profile/bndx) / [VTABX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtabx) | [IAGG](https://www.ishares.com/us/products/279626/ishares-international-aggregate-bond-etf) | | [FBIIX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T732) | |
+| Aggregate US Corp | [VTC](https://investor.vanguard.com/investment-products/etfs/profile/vtc) | [USIG](https://www.ishares.com/us/products/239460/ishares-credit-bond-etf) + [LQD](https://www.ishares.com/us/products/239566/ishares-iboxx-investment-grade-corporate-bond-etf) | [SPBO](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-corporate-bond-etf-spbo) | | |
+| Long-term Treasury | [VGLT](https://investor.vanguard.com/investment-products/etfs/profile/vglt) / [VLGSX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vlgsx) | [TLH](https://www.ishares.com/us/products/239453/ishares-1020-year-treasury-bond-etf) + [TLT](https://www.ishares.com/us/products/239454/ishares-20-year-treasury-bond-etf) | [SPTL](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-treasury-etf-sptl) | [FNBGX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V232) | [SCHQ](https://www.schwabassetmanagement.com/products/schq) |
+| Long-term US | [BLV](https://investor.vanguard.com/investment-products/etfs/profile/blv) | [ILTB](https://www.ishares.com/us/products/239424/ishares-core-longterm-us-bond-etf) | | |
+| Long-term US Corp | [VCLT](https://investor.vanguard.com/investment-products/etfs/profile/vclt) | [IGLB](https://www.ishares.com/us/products/239423/ishares-10-year-credit-bond-etf) | [SPLB](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-long-term-corporate-bond-etf-splb) | | |
+| Long-term US STRIPS | [EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv) | [GOVZ](https://www.ishares.com/us/products/315911/) | | | |
+| High-yield | [VWEHX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vwehx) | [SHYG](https://www.ishares.com/us/products/258100/ishares-05-year-high-yield-corporate-bond-etf) + [USHY](https://www.ishares.com/us/products/291299/ishares-broad-usd-high-yield-corporate-bond-etf) | [SPHY](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-high-yield-bond-etf-sphy) | | |
+
+&nbsp;
+
+In addition to [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ), Invesco manages US mid cap ([XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ)) and small cap ([XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ)) quality funds.
+
+There are also the [target maturity date bond funds](https://github.com/investindex/Risk#bond-like-bond-funds), the all-in-one funds [discussed in the guidelines](https://github.com/investindex/Guidelines#simplify-your-investments-dont-simplify-your-thinking), and the additional funds discussed below and in the [first footnote](https://github.com/investindex/Fund/blob/main/README.md#f1).
+
+&nbsp;
+
+&nbsp;
+
+## ETFs (largest managers)
+
+The ETF issuers with the largest total [assets under management](https://www.investopedia.com/terms/a/aum.asp) are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) and [ETF.com](https://www.etf.com/sections/etf-league-tables.html) are great resources for comparing and searching for ETFs.
+
+&nbsp;
+
+<p align="center">
+  <b>One ETF</b>
+</p>
+
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Total Global | 100% | [ACWI](https://www.ishares.com/us/products/239600/ishares-msci-acwi-etf) | [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | [SPGM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-msci-global-stock-market-etf-spgm) | .32% | .07% | .09% |
+| | | | | | | | |
+| Total US | 100% | [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf) | [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) | [SPTM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-1500-composite-stock-market-etf-sptm) | .03% | .03% | .03% |
+
+&nbsp;
+
+<p align="center">
+  <b>Simple ETF portfolio</b>
+</p>
+
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| US Quality | 30% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/investment-products/etfs/profile/vfqy) | [DUHP](https://us.dimensional.com/etfs/duhp/us-high-profitability-etf) | .15% | .13% | .22% |
+| US Small Cap Value | 30% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/investment-products/etfs/profile/viov) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
+| Total International | 40% | [IXUS](https://www.ishares.com/us/products/244048/ishares-core-msci-total-international-stock-etf) | [VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus) | [CWI](https://www.ssga.com/us/en/individual/etfs/funds/spdr-msci-acwi-ex-us-etf-cwi) | .09% | .07% | .30% |
+| | | | | | .135% | .112% | .231% |
+
+&nbsp;
+
+<p align="center">
+  <b>Complex ETF portfolio</b>
+</p>
+
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/investment-products/etfs/profile/vfqy) | [DUHP](https://us.dimensional.com/etfs/duhp/us-high-profitability-etf) | .15% | .13% | .22% |
+| US Small Cap Value | 15% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/investment-products/etfs/profile/viov) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
+| US Mid Cap Value | 15% | [IJJ](https://www.ishares.com/us/products/239764/ishares-sp-midcap-400-value-etf) | [VOE](https://investor.vanguard.com/investment-products/etfs/profile/voe) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | .18% | .07% | .15% |
+| US Large Cap Value | 10% | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [VTV](https://investor.vanguard.com/investment-products/etfs/profile/vtv) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | .04% | .04% | .04% |
+| International Quality | 10% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [DIHP](https://us.dimensional.com/etfs/dihp/international-high-profitability-etf) | [DIHP](https://us.dimensional.com/etfs/dihp/international-high-profitability-etf) | .30% | .29% | .29% |
+| Intl Small Cap Value | 10% | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | .30% | .36% | .36% |
+| Intl Large Cap Value | 10% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | .30% | .25% | .25% |
+| Total Emerging | 10% | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [VWO](https://investor.vanguard.com/investment-products/etfs/profile/vwo) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | .11% | .08% | .11% |
+| | | | | | .189% | .161% | .194% |
+
+&nbsp;
+
+&nbsp;
+
+## Mutual funds (largest managers)
+
+The leading providers of passive mutual funds are Fidelity and Vanguard; Schwab has a smaller collection but also covers some indices which the first two do not (see RAFI indices in the [previous section](https://github.com/investindex/Portfolio)). Mutual fund offerings are not as diverse, so even the complex portfolio is not as complex as the ETF version.
+
+&nbsp;
+
+<p align="center">
+  <b>One mutual fund</b>
+</p>
+
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Total Global | 100% | | [VTWAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtwax) | | | .10% | |
+| | | | | | | | |
+| Total US | 100% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | &nbsp; .015% &nbsp; | &nbsp; .04% &nbsp; | &nbsp; .03% &nbsp; |
+
+&nbsp;
+
+<p align="center">
+  <b>Simple mutual fund portfolio</b>
+</p>
+
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Total US | 30% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
+| US Small Cap Value | 30% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsiax) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
+| Total International | 40% | [FTIHX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V638) | [VTIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtiax) | [VXUS](https://investor.vanguard.com/etf/profile/VXUS) | &nbsp; .06% &nbsp; | &nbsp; .11% &nbsp; | &nbsp; .07% &nbsp; |
+| | | | | | .044% | .077% | .112% |
+
+&nbsp;
+
+<p align="center">
+  <b>Complex mutual fund portfolio</b>
+</p>
+
+| &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &nbsp; &nbsp; &nbsp; Fidelity &nbsp; &nbsp; &nbsp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; &nbsp; &nbsp; Schwab &nbsp; &nbsp; &nbsp; | &ensp; F. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| Total US | 20% | &ensp; [FSKAX](https://fundresearch.fidelity.com/mutual-funds/summary/315911693) &ensp; | &ensp; [VTSAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax) &ensp; | &ensp; [SWTSX](https://www.schwabassetmanagement.com/products/swtsx) &ensp; | .015% | .04% | .03% |
+| US Small Cap Value | 15% | [FISVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T773) | [VSIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsiax) | [SFSNX](https://www.schwabassetmanagement.com/products/sfsnx) | .05% | .07% | .25% |
+| US Mid Cap Value | 15% | [FIMVX](https://fundresearch.fidelity.com/mutual-funds/summary/31635T799) | [VMVAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vmvax) | [VOE](https://investor.vanguard.com/etf/profile/VOE) | .05% | .07% | .07% |
+| US Large Cap Value | 10% | [FLCOX](https://fundresearch.fidelity.com/mutual-funds/summary/31635V679) | [VVIAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vviax) | [SWLVX](https://www.schwabassetmanagement.com/products/swlvx) | .035% | .05% | .035%
+| Intl Large Cap Value | 16% | [FIVA](https://institutional.fidelity.com/app/fund/etf/snapshot/FIIS_ETF_FIVA.html) | [VTRIX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtrix) | [SFNNX](https://www.schwabassetmanagement.com/products/sfnnx) | &nbsp; .39% &nbsp; | &nbsp; .36% &nbsp; | &nbsp; .25% &nbsp; |
+| Developed ex-US | 12% | [FSPSX](https://fundresearch.fidelity.com/mutual-funds/summary/315911727) | [VTMGX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtmgx) | [SWISX](https://www.schwabassetmanagement.com/products/swisx) | .035% | .07% | .06% |
+| Total Emerging | 12% | [FPADX](https://fundresearch.fidelity.com/mutual-funds/summary/316146331) | [VEMAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vemax) | [SCHE](https://www.schwabassetmanagement.com/products/sche) | &nbsp; .075% &nbsp; | &nbsp; .14% &nbsp; | &nbsp; .11% &nbsp; |
+| | | | | | .097% | .117% | .118% |
+
+&nbsp;
+
+&nbsp;
+
+## General comments
+
+Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Keep in mind that investing in mutual funds from more than one manager often requires using multiple accounts or paying fees; this is a major advantage of ETFs.
+
+Some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not diverging too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab and Invesco, among others.
+
+See this footnote<sup id="fn1">[[1]](#f1)</sup> for additional funds.
 
 &nbsp;
 
