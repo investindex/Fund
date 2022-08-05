@@ -195,6 +195,8 @@ There are also the [target maturity date bond funds](https://github.com/investin
 
 The ETF issuers with the largest total [assets under management](https://www.investopedia.com/terms/a/aum.asp) are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) and [ETF.com](https://www.etf.com/sections/etf-league-tables.html) are great resources for comparing and searching for ETFs.
 
+The term "quality" is used for certain factor funds. Quality, in its most rigorous definition, arguably ought to [refer](https://www.researchaffiliates.com/content/dam/ra/documents/faj-second-quarter-2019-what-is-quality.pdf) to the profitability and investment factors. However, it is mainly a [marketing term](https://www.youtube.com/watch?v=YsWgWrpzdAM&t=1143s) for funds that select stocks based on a variety of "healthy balance sheet" indicators. Strategies under the quality label can differ substantially. Some are better than others at efficiently targeting the profitability and investment factors, which are the variables that systematically account for differences in risk and return.
+
 &nbsp;
 
 <p align="center">
