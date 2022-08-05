@@ -10,7 +10,7 @@ A terminology note: when used here in reference to a fund, the term _Global_ inc
 
 ## Beyond mainstream factor funds
 
-It's important to stress that the implementation of factor investing available from the largest institutions is suboptimal. Some people may not be comfortable straying from household names like Vanguard and Fidelity, but we can't build the best portfolios from their funds. This section will explain how we can do better.
+The largest asset managers have been able to gradually reduce costs over time by reaching enormous scale: Vanguard's funds tracking the total US stock market hold over a trillion dollars in assets. This scale, combined with competition between fund companies, has driven management fees nearly to zero. For cap-weighted funds like [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) and [ITOT](https://www.ishares.com/us/products/239724/ishares-core-sp-total-us-stock-market-etf), the mainstream institutions should be everyone's first choice. However, the implementation of factor investing available from the largest institutions is suboptimal. Some people may not be comfortable straying from household names like Vanguard and Fidelity, but we can't build the best portfolios from their funds. This section will explain how we can do better.
 
 Let's begin with Dimensional Fund Advisors (DFA), which was founded in 1981. Until DFA listed some of their mutual funds as ETFs in November 2020, products from DFA were accessible only to those who used certain wealth management firms and institutional retirement plans. They continue to list more as recently as May 2022, and they now offer [four bond ETFs and 19 stock ETFs](https://us.dimensional.com/etfs). DFA is renowned for thoughtful application of research findings, like risk factors, to their fund management. As described in [this interview](https://www.youtube.com/watch?v=EJMDLS6xCz8), they also have a large research team and proprietary database (read research [here](https://www.dimensional.com/us-en/insights)). Ben Felix, a portfolio manager at PWL Capital, has a [YouTube channel](https://www.youtube.com/c/BenFelixCSI/videos) and [podcast](https://www.youtube.com/c/RATIONALREMINDER/videos) which are referenced often in the hyperlinks of this guide. He provides outstanding explanations of the value of using this knowledge in portfolio management. Due to ETFs launched in recent months, DFA now offers a suite of funds that is diverse enough to build a bespoke portfolio.
 
@@ -93,9 +93,6 @@ The stocks in the complex portfolio have a geographic allocation that is close t
 | [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
 | [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
 | [Long-term US Treasury STRIPS - GOVZ](https://www.ishares.com/us/products/315911/) | $12,000 | Retirement investing (Roth IRA) |
-
-&nbsp;
-
 
 <!--
 
