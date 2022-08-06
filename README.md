@@ -2,7 +2,7 @@
 
 The behemoth asset managers we'll review in this section are BlackRock, Vanguard, Fidelity, State Street, Schwab, and Invesco. You may choose to invest some or all of your money with these managers. However, except for straightforward cap-weighted funds, the products offered by the largest managers are not the best funds to build evidence-based portfolios.
 
-We'll begin by discussing the limitations of funds from the largest institutions, and we'll cover a specific [example portfolio](https://github.com/investindex/Fund/blob/main/README.md#example-portfolio) with funds from Avantis Investors and Dimensional Fund Advisors (DFA). The portfolios are based on principles described in the [previous section](https://github.com/investindex/Portfolio). This is followed by [summary tables](https://github.com/investindex/Fund/blob/main/README.md#summary) that organize selected funds from the behemoths, and suggestions for portfolios with those funds.
+We'll begin by discussing the limitations of funds from the largest institutions, and we'll cover specific [example portfolios](https://github.com/investindex/Fund/blob/main/README.md#example-portfolios) with funds mainly from Avantis Investors and Dimensional Fund Advisors (DFA). The portfolios are based on principles described in the [previous section](https://github.com/investindex/Portfolio). This is followed by [summary tables](https://github.com/investindex/Fund/blob/main/README.md#summary) that organize selected funds from the behemoths, and suggestions for portfolios with those funds.
 
 A terminology note: when used here in reference to a fund, the term _Global_ includes the US. The term _International_, abbreviated _Intl_, excludes the US.
 
@@ -26,7 +26,7 @@ Alpha Architect is a smaller manager that develops [focused factor ETFs](https:/
 
 &nbsp;
 
-## Example portfolio
+## Example portfolios
 
 These simplified examples are for a hypothetical person, age 35 and earning income, who rents their residence and has no debt. Their liquid net worth is $40,000 plus $60,000 in a Roth IRA that they have contributed to for several years. Some funds are duplicated because their taxable brokerage account and Roth IRA must be separate. In the couch potato portfolio B, no rebalancing is required in the taxable brokerage account, so they can add new money to the 60/40 allocation fund on a regular basis without having to think about keeping different funds balanced.
 
