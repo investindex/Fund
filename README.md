@@ -183,7 +183,7 @@ The term "quality" is used for certain factor funds. Quality, in its most rigoro
 
 &nbsp;
 
-Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee. Those mutual funds are excluded, so none of the funds in the table have a purchase fee. Other Vanguard bond ETFs lack a mutual fund counterpart. (A purchase fee is distinct from a front-end load: purchase fees are paid to the fund, whereas loads are paid to the broker.)
+Some of the Vanguard bond ETFs have a mutual fund counterpart with a purchase fee, which disincentivizes rapid trading. Those mutual funds are excluded, so none of the funds in the table have a purchase fee. Other Vanguard bond ETFs lack a mutual fund counterpart. (A purchase fee is distinct from a front-end load: purchase fees are paid to the fund, whereas loads are paid to the broker.)
 
 In addition to [SPHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=SPHQ), Invesco manages US mid cap ([XMHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XMHQ)) and small cap ([XSHQ](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=XSHQ)) quality funds.
 
