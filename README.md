@@ -310,6 +310,10 @@ See this footnote<sup id="fn1">[[1]](#f1)</sup> for additional funds.
 
 Investing in a taxable account, an IRA, or a health savings account (HSA) usually permits you to choose among a very broad selection of options. You can build whatever custom portfolio of ETFs you like. But within some accounts — mainly 529 accounts and employer-sponsored retirement accounts like the 401(k) — your options might be highly restricted. Usually there is no access to ETFs in these accounts, and the list of available mutual funds can be very small. Moreover, fees that investors no longer have to tolerate in a taxable account or an IRA are still common in employer plans. In addition to account-based fees, the expense ratios on available funds can range from normal to outrageously high.
 
+<!--
+You can [transfer the money yourself](https://thefinancebuff.com/how-to-rollover-an-hsa-on-your-own-and-avoid-trustee-transfer-fee.html) for free.
+-->
+
 [More incoming here]
 
 &nbsp;
