@@ -320,7 +320,7 @@ You can [transfer the money yourself](https://thefinancebuff.com/how-to-rollover
 
 &nbsp;
 
-[Click here for the next section — Concerns for the small/large investor](https://github.com/investindex/Small)
+[Click here for the next section — Advice](https://github.com/investindex/Advice)
 
 &nbsp;
 
