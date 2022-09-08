@@ -342,7 +342,7 @@ Unfortunately, the obstructions don't always end with retirement plans. If your 
 
 You can't transfer money to your Fidelity HSA after every paycheck, so I suggest the following: (1) Contribute nothing or very little to your HSA for most of the year, to keep cash from sitting idle in your employer-sponsored HSA; (2) increase your contributions near the end of the year, while ensuring that you leave enough for health insurance premiums, retirement contributions, and any other payroll deductions. Planning is required to decide how many paychecks you'll need to reach the annual maximum (or whatever your intended contribution is). (3) After the year's last paycheck, transfer the money to your Fidelity HSA. You can use an account transfer, but your employer-sponsored HSA administrator will likely charge a fee for this. With a little more effort, you can [transfer the money yourself](https://thefinancebuff.com/how-to-rollover-an-hsa-on-your-own-and-avoid-trustee-transfer-fee.html) for free.
 
-As we'll discuss [later](https://github.com/investindex/Taxes#contribution-timing), it's okay if you somehow don't finish contributions by the end of the calendar year. HSA contributions can be delayed until tax day of the following year (roughly April 15).
+As we'll discuss [later](https://github.com/investindex/Taxes#contribution-timing), it's okay if you somehow don't finish contributions by the end of the calendar year. HSA contributions can be delayed until tax day of the following year (roughly April 15). The same applies to your IRA, but work retirement contributions have a cutoff at the end of the calendar year.
 
 &nbsp;
 
