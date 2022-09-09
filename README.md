@@ -310,7 +310,7 @@ See this footnote<sup id="fn1">[[1]](#f1)</sup> for additional funds.
 
 ## Working with limited options in your employer's retirement plan
 
-Investing in a taxable account, an IRA, or a health savings account (HSA) usually permits you to choose among a very broad selection of options. You can build whatever custom portfolio of ETFs you like. But within some accounts — mainly 529 accounts and employer-sponsored retirement accounts like the 401(k) — your options may be highly restricted. Usually there is no access to ETFs in these accounts, and the list of available mutual funds can be very small. Moreover, fees that investors no longer have to tolerate in a taxable account or an IRA are [still common](https://www.investopedia.com/articles/personal-finance/061913/hidden-fees-401ks.asp) in work retirement plans. In addition to account fees, the expense ratios on available funds can range from normal to outrageously high. Account fees can be a flat charge if you're lucky — like $15 each quarter — or calculated as a percentage of assets in your account.
+Investing in a taxable account or an IRA permits you to choose among a very broad selection of options. You can build whatever custom portfolio of ETFs you like. But within some accounts — mainly 529 accounts and employer-sponsored retirement accounts like the 401(k) — your options may be highly restricted. Usually there is no access to ETFs in these accounts, and the list of available mutual funds can be very small. Moreover, fees that investors no longer have to tolerate in a taxable account or an IRA are [still common](https://www.investopedia.com/articles/personal-finance/061913/hidden-fees-401ks.asp) in work retirement plans. In addition to account fees, the expense ratios on available funds can range from normal to outrageously high. Account fees can be a flat charge if you're lucky — like $15 each quarter — or calculated as a percentage of assets in your account.
 
 Even if you have access to (say) a total stock market fund with an expense ratio of eight basis points, an asset-based fee of 60 basis points would mean that you're paying a total of .68% in fees every year. As emphasized in the [section on retirement](https://github.com/investindex/Retirement), even half a percentage point's difference in average returns is an enormous difference if compounded over many years. You can roll over money in your employer plan to your IRA, but this is usually not permitted until you’ve left your employer. This creates a perverse incentive against staying with the same employer for a long time, especially if their retirement plan is poor. All else equal, it is advantageous to change employers and liberate your money from a restrictive and high-fee employer plan. Some of the largest 401(k) plan providers are Charles Schwab, Fidelity, Vanguard, Prudential, and T. Rowe Price. TIAA is the largest plan provider for 403(b) accounts, which are for nonprofits.
 
@@ -318,7 +318,7 @@ We've [briefly discussed](https://github.com/investindex/Index#common-indices) t
 
 Take the largest fund in the world: Vanguard's [total US stock fund](https://institutional.vanguard.com/investments/product-details/fund/0970). Its oldest share class with the lowest initial minimum investment is the investor class ([VTSMX](https://institutional.vanguard.com/investments/product-details/fund/0085)), with an expense ratio of .14%. Vanguard's investor shares have been phased out and are no longer open to new investors. Admiral shares ([VTSAX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vtsax)) have a lower expense ratio of .04%. VTSAX's initial minimum depends on your retirement plan, although in a taxable account its initial minimum is $3,000. Institutional shares ([VITSX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vitsx)) have an expense ratio of .03% and an initial minimum of $5 million. A retirement plan administrator can reach this minimum by pooling the contributions of many plan participants; individual employees don't need to have that much on their own. Institutional Plus shares ([VSMPX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vsmpx)) have an expense ratio of .02% and an initial minimum of $100 million. And only for the largest institutions, Institutional Select shares ([VSTSX](https://investor.vanguard.com/investment-products/mutual-funds/profile/vstsx)) have an expense ratio of .01% and an initial minimum of $5 billion. All of these share classes are mutual funds: there is also an ETF share class ([VTI](https://investor.vanguard.com/investment-products/mutual-funds/profile/vti)) with an expense ratio of .03%.
 
-These are Vanguard's names for their share classes. Other fund companies have share classes with different names and properties. To gather information about each fund offered to you in your retirement plan, read the fund's [prospectus](https://www.investor.gov/introduction-investing/investing-basics/glossary/mutual-fund-prospectus). The two sections you should check are “principal investment strategies” and “fees and expenses”. For index funds, the primary fact you need from "principal investment strategies" is what index the fund tracks. If it’s an active fund, this section will give a broad overview of the fund’s approach. Some retirement plans offer active funds with egregious expense ratios above 1%. As I explained above, active funds aren’t always bad: those from Avantis, DFA, and a few others are systematic and have relatively low expense ratios. There are several potential fees you should be aware of. Some of them can be found in the “fees and expenses” section of the prospectus, and some can be imposed by your plan provider.
+These are Vanguard's names for their share classes. Other fund companies have share classes with different names and properties. To gather information about each fund offered to you in your retirement plan, read the fund's [prospectus](https://www.investor.gov/introduction-investing/investing-basics/glossary/mutual-fund-prospectus). The two sections you should check are “principal investment strategies” and “fees and expenses”. For index funds, the primary fact you need from "principal investment strategies" is what index the fund tracks. If it’s an active fund, this section will give a broad overview of the fund’s approach. Some retirement plans offer active funds with egregious expense ratios above 1%. As I explained above, active funds aren’t always bad: those from Avantis, DFA, and a few others are systematic and have relatively low expense ratios. There are several potential fees you should be aware of. Some of them are found in the “fees and expenses” section of the prospectus, and some can be imposed by your plan provider.
 
 * Expense ratio: the annual fees extracted from the fund to cover various operating expenses.
 
@@ -348,7 +348,19 @@ As we'll discuss [later](https://github.com/investindex/Taxes#contribution-timin
 
 #### Questions for a potential employer
 
-Before accepting a job, you should 
+Before accepting a job, you should inquire about the benefits offered. Health insurance, HSAs, and retirement plans have financial consequences that many people don't consider until after they've accepted a position. Differences in benefits can be as important as salary differences. You should find out:
+
+* Do they offer an HSA-eligible health plan?
+
+* What HSA administrator do they use?
+
+* What is their retirement contribution policy?
+
+* What is the vesting schedule of employer retirement contributions?
+
+* What investment options are offered by the retirement plan?
+
+* What are the fees of the retirement plan?
 
 &nbsp;
 
