@@ -354,7 +354,7 @@ Before accepting a job, you should inquire about the benefits offered. Health in
 
 * What HSA administrator do they use? What are their fees, investment options, and other policies?
 
-* What is their retirement contribution policy?
+* What is the employer retirement contribution policy?
 
 * What is the vesting schedule of employer retirement contributions?
 
