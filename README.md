@@ -352,10 +352,6 @@ As we'll discuss [later](https://github.com/investindex/Taxes#contribution-timin
 
 Before accepting a job, you should inquire about the benefits offered. Health insurance, HSAs, and retirement plans have financial consequences that many people don't consider until after they've accepted a position. Differences in benefits can be as important as salary differences. You should find out:
 
-* Do they offer an HSA-eligible health plan? How much will your insurance premiums, deductible, and out-of-pocket max be?
-
-* What HSA administrator do they use? What are their fees, investment options, and other policies?
-
 * What is the employer retirement contribution policy?
 
 * What is the vesting schedule of employer retirement contributions?
@@ -363,6 +359,12 @@ Before accepting a job, you should inquire about the benefits offered. Health in
 * What investment options are offered by the retirement plan?
 
 * What are the fees of the retirement plan?
+
+* Do they offer an HSA-eligible health plan? How much would your insurance premiums, deductible, and out-of-pocket max be?
+
+* What HSA administrator do they use? What are their fees, investment options, and other policies?
+
+* Info on other benefits like vacation days, [employee stock purchases](https://www.investopedia.com/terms/e/esop.asp), other types of group insurance such as life insurance, etc.
 
 &nbsp;
 
