@@ -32,14 +32,14 @@ Alpha Architect is a smaller manager that develops [focused factor ETFs](https:/
 
 These simplified examples are for a hypothetical person, age 35 and earning income, who rents their residence and has no debt. Their liquid net worth is $40,000 plus $60,000 in a Roth IRA that they have contributed to for several years. Some funds are duplicated because their taxable brokerage account and Roth IRA are separate accounts.
 
-Couch potato portfolio A uses a very simple factor-tilted portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in a high-quality, long-duration bond fund: 45% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 30% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 25% [GOVZ](https://www.ishares.com/us/products/315911/). DFAC was selected over the other two broad US equity funds offered by Dimensional because DFAC is the most factor-tilted. DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html) from Avantis, but it's also less factor-tilted than DFAC.
+Couch potato portfolio A uses a very simple factor-tilted portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in a high-quality, long-duration bond fund: 45% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 30% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 25% [GOVZ](https://www.ishares.com/us/products/315911/). DFAC was selected over the other two broad US equity funds offered by Dimensional because DFAC is the most factor-tilted. DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html) from Avantis, but AVUS is also less factor-tilted than DFAC.
 
 The long-term complex allocation is:
 * 20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) — Global cap-weighted stocks
 * 21% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) — US small cap value stocks
-* 14% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) - US large cap value stocks
-* 11% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) — Dev ex-US small cap value stocks
-* 7% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) — Dev ex-US large cap value stocks
+* 14% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) — US large cap value stocks
+* 11% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) — Developed ex-US small cap value stocks
+* 7% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) — Developed ex-US large cap value stocks
 * 7% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) — Emerging value stocks
 * 20% [GOVZ](https://www.ishares.com/us/products/315911/) — Long-duration US Treasury bonds
 
