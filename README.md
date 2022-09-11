@@ -32,7 +32,7 @@ Alpha Architect is a smaller manager that develops [focused factor ETFs](https:/
 
 These simplified examples are for a hypothetical person, age 35 and earning income, who rents their residence and has no debt. Their liquid net worth is $40,000 plus $60,000 in a Roth IRA that they have contributed to for several years. Some funds are duplicated because their taxable brokerage account and Roth IRA are separate accounts.
 
-Couch potato portfolio A is a very simple factor-tilted portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html), although it's less factor-tilted than DFAC. If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in allocating to a bond fund like [GOVZ](https://www.ishares.com/us/products/315911/). For instance: 45% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 30% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 25% [GOVZ](https://www.ishares.com/us/products/315911/).
+Couch potato portfolio A uses a very simple factor-tilted portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html), although it's less factor-tilted than DFAC. If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in allocating to a bond fund like [GOVZ](https://www.ishares.com/us/products/315911/). For instance: 45% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 30% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 25% [GOVZ](https://www.ishares.com/us/products/315911/). DFAC was selected over the other two broad US equity funds offered by Dimensional because DFAC is the most factor-tilted.
 
 The long-term complex allocation is: 20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 21% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) + 14% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) + 11% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) + 7% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) + 7% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) + 20% [GOVZ](https://www.ishares.com/us/products/315911/). Portfolio suggestions should be personalized, but if I were to make a recommendation for a disciplined investor's long-term portfolio, it would be something like this. AVUV could potentially be replaced (or combined) with [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf); AVLV with [DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf); AVDV with [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf); AVIV with [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf); and AVES with [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf). Some people would be well-advised to adjust the allocation to VT upward; few people are suited to a portfolio with less allocation to VT and a stronger value tilt. An alternative would be to increase VT to 40% and dial down the other stock funds.
 
@@ -95,32 +95,6 @@ The stocks in the complex portfolio have a geographic allocation that is close t
 | [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
 | [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
 | [Long-term US Treasury STRIPS - GOVZ](https://www.ishares.com/us/products/315911/) | $12,000 | Retirement investing (Roth IRA) |
-
-<!--
-
-<p align="center">
-  <b>Complex portfolio B (for interest)</b>
-</p>
-
-| &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | 
-| :--: | :--: | :--: |
-| Checking account | $5,000 | Potential for immediate use |
-| [Short-term Bonds - BSV](https://investor.vanguard.com/investment-products/etfs/profile/bsv) | $7,000 | Further emergency funds |
-| [Long-Term Bonds - BLV](https://investor.vanguard.com/investment-products/etfs/profile/blv) | $8,000 | Appreciation without high risk |
-| [RAFI US Small Company - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $5,000 | Long-term financial goals |
-| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $3,500 | Long-term financial goals |
-| [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $3,500 | Long-term financial goals |
-| [RAFI Developed ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $4,000 | Long-term financial goals |
-| [RAFI Developed ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $2,000 | Long-term financial goals |
-| [RAFI Emerging Markets Large Company - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $2,000 | Long-term financial goals |
-| [RAFI US Small Company - FNDA](https://www.schwabassetmanagement.com/products/fnda) | $15,000 | Retirement investing (Roth IRA) |
-| [US Mid Cap Equal Weight - EWMC](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=EWMC) | $10,500 | Retirement investing (Roth IRA) |
-| [RAFI US Large Company - FNDX](https://www.schwabassetmanagement.com/products/fndx) | $10,500 | Retirement investing (Roth IRA) |
-| [RAFI Developed ex-US Small-Mid Company - PDN](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=PDN) | $12,000 | Retirement investing (Roth IRA) |
-| [RAFI Developed ex-US Large Company - FNDF](https://www.schwabassetmanagement.com/products/fndf) | $6,000 | Retirement investing (Roth IRA) |
-| [RAFI Emerging Markets Large Company - FNDE](https://www.schwabassetmanagement.com/products/fnde) | $6,000 | Retirement investing (Roth IRA) |
-
--->
 
 &nbsp;
 
