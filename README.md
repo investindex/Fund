@@ -38,9 +38,9 @@ The long-term complex allocation is:
 * 20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) — Global cap-weighted stocks
 * 21% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) — US small cap value stocks
 * 14% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) — US large cap value stocks
-* 11% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) — Developed ex-US small cap value stocks
+* 10.5% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) — Developed ex-US small cap value stocks
 * 7% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) — Developed ex-US large cap value stocks
-* 7% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) — Emerging value stocks
+* 7.5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) — Emerging value stocks
 * 20% [GOVZ](https://www.ishares.com/us/products/315911/) — Long-duration US Treasury bonds
 
 Portfolio suggestions should be personalized, but if I were to make a recommendation for a disciplined investor's long-term portfolio, it would be something like this. AVUV could potentially be replaced (or combined) with [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf); AVLV with [DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf); AVDV with [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf); AVIV with [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf); and AVES with [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf). Some people would be well-advised to adjust the allocation to VT upward; few people are suited to a portfolio with less allocation to VT and a stronger value tilt. An alternative would be to increase VT to 40% and dial down the other stock funds.
@@ -93,16 +93,16 @@ The stocks in the complex portfolio have a geographic allocation that is close t
 | [Total International - VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus) | $1,600 | Long-term financial goals |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $4,200 | Long-term financial goals |
 | [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $2,800 | Long-term financial goals |
-| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $2,200 | Long-term financial goals |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $2,100 | Long-term financial goals |
 | [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $1,400 | Long-term financial goals |
-| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $1,400 | Long-term financial goals |
+| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $1,500 | Long-term financial goals |
 | [Long-term US Treasury STRIPS - GOVZ](https://www.ishares.com/us/products/315911/) | $4,000 | Long-term financial goals |
 | [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $12,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $12,600 | Retirement investing (Roth IRA) |
 | [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $8,400 | Retirement investing (Roth IRA) |
-| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $6,600 | Retirement investing (Roth IRA) |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $6,300 | Retirement investing (Roth IRA) |
 | [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
-| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $4,200 | Retirement investing (Roth IRA) |
+| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $4,500 | Retirement investing (Roth IRA) |
 | [Long-term US Treasury STRIPS - GOVZ](https://www.ishares.com/us/products/315911/) | $12,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
