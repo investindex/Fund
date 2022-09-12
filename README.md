@@ -4,7 +4,7 @@ The behemoth asset managers we'll review in this section are BlackRock, Vanguard
 
 We'll begin by discussing the limitations of funds from the largest institutions, and we'll cover specific [example portfolios](https://github.com/investindex/Fund/blob/main/README.md#example-portfolios) with funds mainly from Avantis Investors and Dimensional Fund Advisors (DFA). The portfolios are based on principles described in the [previous section](https://github.com/investindex/Portfolio). This is followed by [summary tables](https://github.com/investindex/Fund/blob/main/README.md#summary) that organize selected funds from the behemoths, and suggestions for portfolios with those funds.
 
-Finally, we'll discuss how to navigate the limited options in an [employer's retirement plan](https://github.com/investindex/Fund/blob/main/README.md#working-with-limited-options-in-your-employers-retirement-plan).
+Finally, we'll discuss how to navigate the fees and limited options in an [employer's retirement plan](https://github.com/investindex/Fund/blob/main/README.md#working-with-limited-options-in-your-employers-retirement-plan).
 
 A terminology note: when used here in reference to a fund, the term _Global_ includes the US. The term _International_, abbreviated _Intl_, excludes the US.
 
