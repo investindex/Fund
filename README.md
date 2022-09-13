@@ -32,7 +32,7 @@ Alpha Architect is a smaller manager that develops [focused factor ETFs](https:/
 
 These simplified examples are for a hypothetical person, age 35 and earning income, who rents their residence and has no debt. Their liquid net worth is $40,000 plus $60,000 in a Roth IRA that they have contributed to for several years. Some funds are duplicated because their taxable brokerage account and Roth IRA are separate accounts.
 
-Couch potato portfolio A uses a simple, factor-tilted global portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in a high-quality, long-duration bond fund: 45% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 30% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 25% [GOVZ](https://www.ishares.com/us/products/315911/). DFAC was selected over the other two broad US equity funds offered by Dimensional because DFAC is the most factor-tilted. DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html) from Avantis, but AVUS is also less factor-tilted than DFAC.
+The couch potato portfolio uses a simple, factor-tilted global portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in a high-quality, long-duration bond fund: 45% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 30% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 25% [GOVZ](https://www.ishares.com/us/products/315911/). DFAC was selected over the other two broad US equity funds offered by Dimensional because DFAC is the most factor-tilted. DFAC could be replaced with [AVUS](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-equity-etf.html) from Avantis, but AVUS is also less factor-tilted than DFAC.
 
 The long-term complex allocation is:
 * 20% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) — Global cap-weighted stocks
@@ -44,15 +44,17 @@ The long-term complex allocation is:
 * 20% [GOVZ](https://www.ishares.com/us/products/315911/) — Long-duration US Treasury bonds
 
 Portfolio suggestions should be personalized, but if I were to make a recommendation for a disciplined investor's long-term portfolio, it would be something like this. Some people would be well-advised to adjust the allocation to VT upward; few people are suited to a portfolio with less allocation to VT and a stronger value tilt. An alternative would be to increase VT to 40% and dial down the other stock funds. AVUV could potentially be replaced (or combined) with [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf); AVLV with [DFUV](https://us.dimensional.com/etfs/dfuv/us-marketwide-value-etf); AVDV with [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf); AVIV with [DFIV](https://us.dimensional.com/etfs/dfiv/international-value-etf); and AVES with [DFEV](https://us.dimensional.com/etfs/dfev/emerging-markets-value-etf).
-
+<!--
 A simplified version is in the couch potato portfolio B: 50% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) + 30% [DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) + 20% [DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf). The diversification is [not as robust](https://www.youtube.com/watch?v=EJMDLS6xCz8&t=4979s), but those who seek simplicity can achieve excellent geographic and risk factor diversification with only three funds.
+-->
+The stocks in the complex portfolio have a geographic allocation that is close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include nearly all global stocks to some degree by using VT as the core. We add long-term US Treasury [STRIPS](https://www.investopedia.com/terms/t/treasurystrips.asp) for bonds with minimal credit risk and maximum interest rate risk. (See [here](https://github.com/investindex/Risk#understanding-bonds-and-their-risks) for explanation of these risks.) There are three potential ETFs for this role: [EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv), [GOVZ](https://www.ishares.com/us/products/315911/), and [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/). Although EDV has the lowest expense ratio, GOVZ and ZROZ have a slightly higher effective [duration](https://www.investopedia.com/terms/d/duration.asp) (i.e., they are more sensitive to interest rates). Between the latter two, GOVZ wins due to a low share price, which facilitates investing a more precise amount in a small account. I also chose [SCHB](https://www.schwabassetmanagement.com/products/schb) over [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) simply because SCHB has a much lower share price.
 
-The stocks in the complex portfolio have a geographic allocation that is close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include nearly all global stocks to some degree by using VT as the core. We add long-term US Treasury [STRIPS](https://www.investopedia.com/terms/t/treasurystrips.asp) for bonds with minimal credit risk and maximum interest rate risk. (See [here](https://github.com/investindex/Risk#understanding-bonds-and-their-risks) for explanation of these risks.) There are three potential ETFs for this role: [EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv), [GOVZ](https://www.ishares.com/us/products/315911/), and [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/). Although EDV has the lowest expense ratio, GOVZ and ZROZ have a slightly higher effective [duration](https://www.investopedia.com/terms/d/duration.asp) (i.e., they are more sensitive to interest rates). Between the latter two, GOVZ wins due to a low share price, which facilitates investing a more precise amount in a small account. I also chose [SCHB](https://www.schwabassetmanagement.com/products/schb) over [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) simply because SCHB has a much lower share price. See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-with-global-funds) for the minor tax incentive to split VT into total US (SCHB) and total international (VXUS) funds in taxable accounts (but _not_ in tax-advantaged accounts).
+See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-with-global-funds) for the minor tax incentive to split VT into total US (SCHB) and total international (VXUS) funds in taxable accounts (but _not_ in tax-advantaged accounts).
 
 &nbsp;
 
 <p align="center">
-  <b>Couch potato portfolio A</b>
+  <b>Couch potato portfolio</b>
 </p>
 
 | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Location &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; | &emsp; &emsp; Amount &emsp; &emsp; | &nbsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Purpose &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &nbsp; |
@@ -63,7 +65,7 @@ The stocks in the complex portfolio have a geographic allocation that is close t
 | [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $8,000 | Long-term financial goals |
 | [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $36,000 | Retirement investing (Roth IRA) |
 | [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $24,000 | Retirement investing (Roth IRA) |
-
+<!--
 &nbsp;
 
 <p align="center">
@@ -78,7 +80,7 @@ The stocks in the complex portfolio have a geographic allocation that is close t
 | [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $30,000 | Retirement investing (Roth IRA) |
 | [US Small Cap Value - DFSV](https://us.dimensional.com/etfs/dfsv/us-small-cap-value-etf) | $18,000 | Retirement investing (Roth IRA) |
 | [Developed ex-US Small Cap Value - DISV](https://us.dimensional.com/etfs/disv/international-small-cap-value-etf) | $12,000 | Retirement investing (Roth IRA) |
-
+-->
 &nbsp;
 
 <p align="center">
