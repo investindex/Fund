@@ -353,6 +353,8 @@ Before accepting a job, you should inquire about the benefits offered. Health in
 
 * What HSA administrator do they use? What are their fees, investment options, and other policies?
 
+* How do the other health insurance plans compare to the HSA-eligible plan?
+
 * Info on other benefits like vacation days, [employee ownership](https://www.investopedia.com/terms/e/esop.asp), other types of group insurance such as life insurance, etc.
 
 &nbsp;
