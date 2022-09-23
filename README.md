@@ -341,13 +341,13 @@ This works only if you have an employer with an HSA-eligible plan for the entire
 
 Before accepting a job, you should inquire about the benefits offered. Health insurance, HSAs, and retirement plans have financial consequences that many people don't consider until after they've accepted a position. Differences in benefits can be as important as salary differences. You should find out:
 
-* What is the employer retirement contribution policy?
-
-* What is the vesting schedule of employer retirement contributions?
-
 * What investment options are offered by the retirement plan?
 
 * What are the fees of the retirement plan?
+
+* What is the employer retirement contribution policy (e.g., 50% matching up to 6% of salary)?
+
+* What is the vesting schedule of employer retirement contributions?
 
 * Do they offer an HSA-eligible health plan? How much would your insurance premiums, deductible, and out-of-pocket max be?
 
