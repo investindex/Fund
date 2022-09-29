@@ -65,7 +65,7 @@ See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-wi
 | [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $15,000 | Emergency funds + Near-term funds |
 | [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $12,000 | Long-term financial goals |
 | [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $8,000 | Long-term financial goals |
-| [Factor-tilted global equity - AVGE]([https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-all-equity-markets-etf.html)) | $60,000 | Retirement investing (Roth IRA) |
+| [Factor-tilted global equity - AVGE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-all-equity-markets-etf.html) | $60,000 | Retirement investing (Roth IRA) |
 <!--
 &nbsp;
 
