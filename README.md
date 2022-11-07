@@ -110,7 +110,7 @@ See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-wi
 
 &nbsp;
 
-Potential additions to these portfolios, including [QVAL](https://etfsite.alphaarchitect.com/qval/) and [IVAL](https://etfsite.alphaarchitect.com/ival/), are discussed in the [advanced topics](https://github.com/investindex/Advanced#real-estate-investment-trusts-reits).
+Potential additions to these portfolios, including asset classes beyond stocks and bonds, are discussed in the [advanced topics](https://github.com/investindex/Advanced). In particular, the diversification benefits of managed futures are impressive. We also cover real estate, gold, cryptocurrency, and certain derivatives.
 
 A reader might wonder why some of the portfolios below from large asset managers have mid cap funds, while the complex portfolio here does not. Avantis and DFA don't use a mid cap category: their small cap and large cap funds cover the entire range of market caps. So nothing is missing. You could include [RFV](https://www.invesco.com/us/financial-products/etfs/product-detail?audienceType=Investor&ticker=RFV) in the complex portfolio to add more weight to mid cap stocks if you wanted.
 
