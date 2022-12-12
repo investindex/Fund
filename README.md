@@ -34,15 +34,15 @@ Bond funds from DFA and Avantis are distinguished by using information in the cu
 
 These simplified examples are for a hypothetical person, age 35 and earning income, who rents their residence and has no debt. Their liquid net worth is $40,000 plus $60,000 in a Roth IRA that they have contributed to for several years. Some funds are duplicated because their taxable brokerage account and Roth IRA are separate accounts. The portfolios are just suggestions, and you can feel free to vary them.
 
-The couch potato portfolio uses a simple, factor-tilted global portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in a high-quality, long-duration bond fund: 48% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 32% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 20% [GOVZ](https://www.ishares.com/us/products/315911/). Funds like DFAC and DFAX overweight stocks with higher expected return, compared to the cap-weighted market. The Roth IRA portfolio is a single fund, [AVGE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-all-equity-markets-etf.html). This is a moderately factor-tilted ETF from Avantis that creates a global equity portfolio by holding ten Avantis ETFs.
+The couch potato portfolio uses a simple, factor-tilted global portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in a high-quality, long-duration bond fund: 48% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 32% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 20% [GOVZ](https://www.ishares.com/us/products/315911/). Funds like DFAC and DFAX overweight stocks with higher expected return, compared to the cap-weighted market. The Roth IRA portfolio is a single fund, [AVGE](https://www.avantisinvestors.com/avantis-investments/avantis-all-equity-markets-etf/). This is a moderately factor-tilted ETF from Avantis that creates a global equity portfolio by holding ten Avantis ETFs.
 
 The long-term complex allocation is:
 * 30% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) — Global cap-weighted stocks
-* 18% [AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) — US small cap value stocks
-* 12% [AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) — US large cap value stocks
-* 9% [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) — Developed ex-US small cap value stocks
-* 6% [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) — Developed ex-US large cap value stocks
-* 5% [AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) — Emerging value stocks
+* 18% [AVUV](https://www.avantisinvestors.com/avantis-investments/avantis-us-small-cap-value-etf/) — US small cap value stocks
+* 12% [AVLV](https://www.avantisinvestors.com/avantis-investments/avantis-us-large-cap-value-etf/) — US large cap value stocks
+* 9% [AVDV](https://www.avantisinvestors.com/avantis-investments/avantis-international-small-cap-value-etf/) — Developed ex-US small cap value stocks
+* 6% [AVIV](https://www.avantisinvestors.com/avantis-investments/avantis-international-large-cap-value-etf/) — Developed ex-US large cap value stocks
+* 5% [AVES](https://www.avantisinvestors.com/avantis-investments/avantis-emerging-markets-value-etf/) — Emerging value stocks
 * 20% [GOVZ](https://www.ishares.com/us/products/315911/) — Long-duration US Treasury bonds
 
 Portfolio suggestions should be personalized, but if I were to make a recommendation for a long-term stock and bond portfolio, it would be something like this. Decisions are, of course, arbitary to some extent, such as assigning 50% more weight to small cap value than large cap value. Some people would be well-advised to adjust the allocation to VT upward; very strong conviction in factor investing would be needed to underweight VT further. The allocation above is far more factor-tilted than the couch potato portfolio. GOVZ adds a new source of expected return, diversifying beyond an all equity portfolio.<sup id="fn3">[[3]](#f3)</sup>
@@ -67,7 +67,7 @@ See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-wi
 | [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $15,000 | Emergency funds + Near-term funds |
 | [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $12,000 | Long-term financial goals |
 | [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $8,000 | Long-term financial goals |
-| [Factor-tilted global equity - AVGE](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-all-equity-markets-etf.html) | $60,000 | Retirement investing (Roth IRA) |
+| [Factor-tilted global equity - AVGE](https://www.avantisinvestors.com/avantis-investments/avantis-all-equity-markets-etf/) | $60,000 | Retirement investing (Roth IRA) |
 <!--
 &nbsp;
 
@@ -96,18 +96,18 @@ See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-wi
 | [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $15,000 | Emergency funds + Near-term funds |
 | [Total US - SCHB](https://www.schwabassetmanagement.com/products/schb) | $3,600 | Long-term financial goals |
 | [Total International - VXUS](https://investor.vanguard.com/investment-products/etfs/profile/vxus) | $2,400 | Long-term financial goals |
-| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $3,600 | Long-term financial goals |
-| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $2,400 | Long-term financial goals |
-| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $1,800 | Long-term financial goals |
-| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $1,200 | Long-term financial goals |
-| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $1,000 | Long-term financial goals |
+| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/avantis-investments/avantis-us-small-cap-value-etf/) | $3,600 | Long-term financial goals |
+| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/avantis-investments/avantis-us-large-cap-value-etf/) | $2,400 | Long-term financial goals |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/avantis-investments/avantis-international-small-cap-value-etf/) | $1,800 | Long-term financial goals |
+| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/avantis-investments/avantis-international-large-cap-value-etf/) | $1,200 | Long-term financial goals |
+| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/avantis-investments/avantis-emerging-markets-value-etf/) | $1,000 | Long-term financial goals |
 | [Long-term US Treasury STRIPS - GOVZ](https://www.ishares.com/us/products/315911/) | $4,000 | Long-term financial goals |
 | [Total Global - VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) | $18,000 | Retirement investing (Roth IRA) |
-| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-u-s-small-cap-value-etf.html) | $10,800 | Retirement investing (Roth IRA) |
-| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-us-large-cap-value-etf.html) | $7,200 | Retirement investing (Roth IRA) |
-| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | $5,400 | Retirement investing (Roth IRA) |
-| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | $3,600 | Retirement investing (Roth IRA) |
-| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-emerging-markets-value-etf.html) | $3,000 | Retirement investing (Roth IRA) |
+| [US Small Cap Value - AVUV](https://www.avantisinvestors.com/avantis-investments/avantis-us-small-cap-value-etf/) | $10,800 | Retirement investing (Roth IRA) |
+| [US Large Cap Value - AVLV](https://www.avantisinvestors.com/avantis-investments/avantis-us-large-cap-value-etf/) | $7,200 | Retirement investing (Roth IRA) |
+| [Developed ex-US Small Cap Value - AVDV](https://www.avantisinvestors.com/avantis-investments/avantis-international-small-cap-value-etf/) | $5,400 | Retirement investing (Roth IRA) |
+| [Developed ex-US Large Cap Value - AVIV](https://www.avantisinvestors.com/avantis-investments/avantis-international-large-cap-value-etf/) | $3,600 | Retirement investing (Roth IRA) |
+| [Emerging Markets Value - AVES](https://www.avantisinvestors.com/avantis-investments/avantis-emerging-markets-value-etf/) | $3,000 | Retirement investing (Roth IRA) |
 | [Long-term US Treasury STRIPS - GOVZ](https://www.ishares.com/us/products/315911/) | $12,000 | Retirement investing (Roth IRA) |
 
 &nbsp;
@@ -222,13 +222,13 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 | &emsp; &emsp; Stock index &emsp; &emsp; | &nbsp; Allocation &nbsp; | &ensp; BlackRock &ensp; | &nbsp; &nbsp; Vanguard &nbsp; &nbsp; | &nbsp; State Street &nbsp; | &ensp; B. Fee &ensp; | &ensp; V. Fee &ensp; | &ensp; S. Fee &ensp; |
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
-| US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/investment-products/etfs/profile/vfqy) | [DUHP](https://us.dimensional.com/etfs/duhp/us-high-profitability-etf) | .15% | .13% | .22% |
+| US Quality | 20% | [QUAL](https://www.ishares.com/us/products/256101/ishares-msci-usa-quality-factor-etf) | [VFQY](https://investor.vanguard.com/investment-products/etfs/profile/vfqy) | [DUHP](https://www.dimensional.com/us-en/funds/duhp/us-high-profitability-etf) | .15% | .13% | .22% |
 | US Small Cap Value | 15% | [IJS](https://www.ishares.com/us/products/239775/ishares-sp-smallcap-600-value-etf) | [VIOV](https://investor.vanguard.com/investment-products/etfs/profile/viov) | [SLYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-600-small-cap-value-etf-slyv) | .18% | .15% | .15% |
 | US Mid Cap Value | 15% | [IJJ](https://www.ishares.com/us/products/239764/ishares-sp-midcap-400-value-etf) | [VOE](https://investor.vanguard.com/investment-products/etfs/profile/voe) | [MDYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-400-mid-cap-value-etf-mdyv) | .18% | .07% | .15% |
 | US Large Cap Value | 10% | [IUSV](https://www.ishares.com/us/products/239715/ishares-core-sp-us-value-etf) | [VTV](https://investor.vanguard.com/investment-products/etfs/profile/vtv) | [SPYV](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-sp-500-value-etf-spyv) | .04% | .04% | .04% |
-| International Quality | 10% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [DIHP](https://us.dimensional.com/etfs/dihp/international-high-profitability-etf) | [DIHP](https://us.dimensional.com/etfs/dihp/international-high-profitability-etf) | .30% | .29% | .29% |
-| Intl Small Cap Value | 10% | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | [AVDV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-small-cap-value-etf.html) | .30% | .36% | .36% |
-| Intl Large Cap Value | 10% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | [AVIV](https://www.avantisinvestors.com/content/avantis/en/investments/avantis-international-large-cap-value-etf.html) | .30% | .25% | .25% |
+| International Quality | 10% | [IQLT](https://www.ishares.com/us/products/271540/ishares-msci-international-developed-quality-factor-etf) | [DIHP](https://us.dimensional.com/etfs/dihp/international-high-profitability-etf) | [DIHP](https://www.dimensional.com/us-en/funds/dihp/international-high-profitability-etf) | .30% | .29% | .29% |
+| Intl Small Cap Value | 10% | [ISVL](https://www.ishares.com/us/products/317548/ishares-international-developed-small-cap-value-factor-etf) | [AVDV](https://www.avantisinvestors.com/avantis-investments/avantis-international-small-cap-value-etf/) | [AVDV](https://www.avantisinvestors.com/avantis-investments/avantis-international-small-cap-value-etf/) | .30% | .36% | .36% |
+| Intl Large Cap Value | 10% | [IVLU](https://www.ishares.com/us/products/275382/ishares-msci-international-developed-value-factor-etf) | [AVIV](https://www.avantisinvestors.com/avantis-investments/avantis-international-large-cap-value-etf/) | [AVIV](https://www.avantisinvestors.com/avantis-investments/avantis-international-large-cap-value-etf/) | .30% | .25% | .25% |
 | Total Emerging | 10% | [IEMG](https://www.ishares.com/us/products/244050/ishares-core-msci-emerging-markets-etf) | [VWO](https://investor.vanguard.com/investment-products/etfs/profile/vwo) | [SPEM](https://www.ssga.com/us/en/individual/etfs/funds/spdr-portfolio-emerging-markets-etf-spem) | .11% | .08% | .11% |
 | | | | | | .189% | .161% | .194% |
 
