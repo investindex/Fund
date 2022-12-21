@@ -431,7 +431,7 @@ BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/
 
 <sup id="f2"> 2 </sup> <b> Understanding risk factors and why they don't travel alone </b>
 
-Before reading this, I recommend listening to Ben Felix’s explanation on [this podcast](https://www.youtube.com/watch?v=FGdREnI5ytc&t=1096s) and in [this brief written post](https://rationalreminder.ca/blog/2019/8/22/zqes51gt9xfgi7iggxtjfmuh8z73sf). Hearing it first (from roughly the 18 min to 28 min marks) may help with processing this dense material. [This interview](https://www.youtube.com/watch?v=k2DHFPIeY5c) with the chief investment officer of Avantis emphasizes the importance of thinking in terms of discount rates.
+Before reading this, I recommend listening to Ben Felix’s explanation on [this podcast](https://www.youtube.com/watch?v=FGdREnI5ytc&t=1096s) and in [this brief written post](https://rationalreminder.ca/blog/2019/8/22/zqes51gt9xfgi7iggxtjfmuh8z73sf). Hearing it first (from roughly the 18 min to 28 min marks) may help with processing this dense material. In addition, ensure you understand the [previous section](https://github.com/investindex/Portfolio)'s introduction to risk factors. [This interview](https://www.youtube.com/watch?v=k2DHFPIeY5c) with the chief investment officer of Avantis emphasizes the importance of thinking in terms of discount rates.
 
 A few concepts must be established to understand why simultaneous implementation of factors is so much more effective than implementation of single factors in separate funds.
 
