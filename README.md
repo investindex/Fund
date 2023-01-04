@@ -360,6 +360,8 @@ Before accepting a job, you should inquire about the benefits offered. Health in
 
 * Info on other benefits like vacation days, [employee ownership](https://www.investopedia.com/terms/e/esop.asp), other types of group insurance such as life insurance, etc.
 
+[This post](https://www.reddit.com/r/investing/comments/zqqtk4/my_company_is_interviewing_for_a_new_401k/) on the investing subreddit is a thorough list of what constitutes a good work retirement plan.
+
 &nbsp;
 
 &nbsp;
