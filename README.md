@@ -34,7 +34,7 @@ Bond funds from DFA and Avantis are distinguished by using information in the cu
 
 These simplified examples are for a hypothetical person, age 35 and earning income, who rents their residence and has no debt. Their liquid net worth is $40,000 plus $60,000 in a Roth IRA that they have contributed to for several years. Some funds are duplicated because their taxable brokerage account and Roth IRA are separate accounts. The portfolios are just suggestions, and you can feel free to vary them.
 
-The couch potato portfolio uses a simple, factor-tilted global portfolio: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in a high-quality, long-duration bond fund: 48% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 32% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 20% [GOVZ](https://www.ishares.com/us/products/315911/). Funds like DFAC and DFAX overweight stocks with higher expected return, compared to the cap-weighted market. The Roth IRA portfolio is a single fund, [AVGE](https://www.avantisinvestors.com/avantis-investments/avantis-all-equity-markets-etf/). This is a moderately factor-tilted ETF from Avantis that creates a global equity portfolio by holding ten Avantis ETFs.
+The couch potato portfolio uses a simple, factor-tilted global portfolio in the Roth IRA: 60% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 40% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf). If someone wanted to add just one more fund, the greatest marginal benefit would probably lie in a high-quality, long-duration bond fund: 48% [DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) + 32% [DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) + 20% [GOVZ](https://www.ishares.com/us/products/315911/). Funds like DFAC and DFAX overweight stocks with higher expected return, compared to the cap-weighted market. The long-term, taxable portfolio is a single fund, [AVGE](https://www.avantisinvestors.com/avantis-investments/avantis-all-equity-markets-etf/). This is a moderately factor-tilted ETF from Avantis that creates a global equity portfolio by holding ten Avantis ETFs.
 
 The long-term complex allocation is:
 * 30% [VT](https://investor.vanguard.com/investment-products/etfs/profile/vt) — Global cap-weighted stocks
@@ -53,7 +53,7 @@ A simplified version is in the couch potato portfolio B: 50% [VT](https://invest
 -->
 The stocks in the complex portfolio have a geographic allocation that is close to global market cap weights. Value is highly overweighted, and small cap value even more so. However, we include nearly all global stocks to some degree with VT. We add long-term US Treasury [STRIPS](https://www.investopedia.com/terms/t/treasurystrips.asp), because bonds with minimal credit risk and maximum interest rate risk are the best bonds for diversification of a high-risk portfolio that otherwise holds equities. (See [here](https://github.com/investindex/Risk#understanding-bonds-and-their-risks) for explanation of these risks.) There are three potential ETFs for this role: [EDV](https://investor.vanguard.com/investment-products/etfs/profile/edv), [GOVZ](https://www.ishares.com/us/products/315911/), and [ZROZ](https://www.pimco.com/en-us/investments/etf/25-year-zero-coupon-us-treasury-index-exchange-traded-fund/). Although EDV has the lowest expense ratio, GOVZ and ZROZ have a slightly higher effective [duration](https://www.investopedia.com/terms/d/duration.asp) (which corresponds to interest rate risk). The latter two track the same index, but GOVZ wins due to a low share price, which facilitates investing a more precise amount in a small account. I also chose [SCHB](https://www.schwabassetmanagement.com/products/schb) over [VTI](https://investor.vanguard.com/investment-products/etfs/profile/vti) because SCHB has a much lower share price. Of course, it would be reasonable to choose EDV, ZROZ, or VTI if you want (one might prefer the greater liquidity of EDV and ZROZ).
 
-See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-with-global-funds) for the minor tax incentive to split VT into total US (SCHB) and total international (VXUS) funds in taxable accounts (but _not_ in tax-advantaged accounts). The couch potato portfolio deliberately holds the global fund AVGE in a Roth IRA for the same reason.
+See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-with-global-funds) for the minor tax incentive to split VT into total US (SCHB) and total international (VXUS) funds in taxable accounts (but _not_ in tax-advantaged accounts).
 
 &nbsp;
 
@@ -65,9 +65,9 @@ See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-wi
 | :--: | :--: | :--: |
 | Checking account | $5,000 | Potential for immediate use |
 | [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $15,000 | Emergency funds + Near-term funds |
-| [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $12,000 | Long-term financial goals |
-| [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $8,000 | Long-term financial goals |
-| [Factor-tilted global equity - AVGE](https://www.avantisinvestors.com/avantis-investments/avantis-all-equity-markets-etf/) | $60,000 | Retirement investing (Roth IRA) |
+| [Factor-tilted global equity - AVGE](https://www.avantisinvestors.com/avantis-investments/avantis-all-equity-markets-etf/) | $20,000 | Long-term financial goals |
+| [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $36,000 | Retirement investing (Roth IRA) |
+| [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $24,000 | Retirement investing (Roth IRA) |
 <!--
 &nbsp;
 
