@@ -185,6 +185,8 @@ There are also the [target maturity date bond funds](https://github.com/investin
 
 &nbsp;
 
+<!--
+
 ## ETFs (largest managers)
 
 The ETF issuers with the largest total [assets under management](https://www.investopedia.com/terms/a/aum.asp) are BlackRock, Vanguard, and State Street (in decreasing order). The [ETF database](https://etfdb.com/etfs/issuers/#issuer-power-rankings__aum&sort_name=revenue_position&sort_order=asc&page=1) and [ETF.com](https://www.etf.com/sections/etf-league-tables.html) are great resources for comparing and searching for ETFs.
@@ -236,9 +238,11 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 &nbsp;
 
-## Mutual funds (largest managers)
+-->
 
-The leading providers of passive mutual funds are Fidelity and Vanguard; Schwab has a smaller collection but also covers some indices which the first two do not (see RAFI indices in the [previous section](https://github.com/investindex/Portfolio)). Mutual fund offerings are not as diverse, so even the complex portfolio is not as complex as the ETF version.
+## Mutual funds from the largest managers
+
+The leading providers of passive mutual funds are Fidelity and Vanguard; Schwab has a smaller collection but also covers some indices which the first two do not (see RAFI indices in the [previous section](https://github.com/investindex/Portfolio)). <!--Mutual fund offerings are not as diverse, so even the complex portfolio is not as complex as the ETF version.-->
 
 &nbsp;
 
@@ -288,7 +292,7 @@ The leading providers of passive mutual funds are Fidelity and Vanguard; Schwab 
 
 ### General comments
 
-The above portfolios are an attempt to build a decent portfolio with suboptimal funds. This is sometimes necessary in retirement plans, as we'll see below. Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Keep in mind that investing in mutual funds from more than one manager often requires using multiple accounts or paying fees; this is a major advantage of ETFs.
+The above mutual fund portfolios are an attempt to build a decent portfolio with suboptimal funds. This is sometimes necessary in retirement plans, as we'll see below. Although the funds are presented as groups, there is no prize for brand loyalty and you may want to choose a combination of managing institutions, as well as a combination of ETFs and mutual funds. Keep in mind that investing in mutual funds from more than one manager often requires using multiple accounts or paying fees; this is a major advantage of ETFs.
 
 Some of these portfolios, like the simple and complex ETF portfolios, are highly factor-tilted. Investors who are concerned with not diverging too far from standard market returns should include a significant allocation to a total market fund or large cap fund (which are very similar because the cap-weighted total market is dominated by large cap stocks). Examples of US large cap funds are in the summary table. They could also hold [RAFI funds](https://www.youtube.com/watch?v=00ZACmAdi7g), which are value-tilted but not as strongly as a value fund because they hold growth stocks as well (while underweighting them). RAFI funds are offered by Schwab and Invesco, among others.
 
