@@ -65,7 +65,7 @@ See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-wi
 | :--: | :--: | :--: |
 | Checking account | $5,000 | Potential for immediate use |
 | [Core bonds - DFCF](https://us.dimensional.com/etfs/dfcf/core-fixed-income-etf) | $15,000 | Emergency funds + Near-term funds |
-| [Factor-tilted global equity - AVGV](https://www.avantisinvestors.com/avantis-investments/avantis-all-equity-markets-value-etf/) | $20,000 | Long-term financial goals |
+| [Global value stocks - AVGV](https://www.avantisinvestors.com/avantis-investments/avantis-all-equity-markets-value-etf/) | $20,000 | Long-term financial goals |
 | [Factor-tilted US equity - DFAC](https://us.dimensional.com/etfs/dfac/us-core-equity-2-etf) | $36,000 | Retirement investing (Roth IRA) |
 | [Factor-tilted total international equity - DFAX](https://us.dimensional.com/etfs/dfax/world-ex-us-core-equity-2-etf) | $24,000 | Retirement investing (Roth IRA) |
 <!--
