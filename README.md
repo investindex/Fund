@@ -241,7 +241,7 @@ The ETF issuers with the largest total [assets under management](https://www.inv
 
 ## Mutual funds from the largest managers
 
-The leading providers of passive mutual funds are Fidelity and Vanguard; Schwab has a smaller collection but also covers some indices which the first two do not (see RAFI indices in the [previous section](https://github.com/investindex/Portfolio)). <!--Mutual fund offerings are not as diverse, so even the complex portfolio is not as complex as the ETF version.-->
+The leading providers of passive mutual funds for individual investors are Fidelity and Vanguard; Schwab has a smaller collection but also covers some indices which the first two do not (see RAFI indices in the [previous section](https://github.com/investindex/Portfolio)).
 
 &nbsp;
 
