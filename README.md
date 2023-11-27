@@ -113,7 +113,7 @@ See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-wi
 
 Potential additions to these portfolios, including asset classes beyond stocks and bonds, are discussed in the [advanced topics](https://github.com/investindex/Advanced). In particular, the diversification benefits of managed futures are impressive. We also cover real estate, gold, cryptocurrency, and other assets.
 
-A reader might wonder why some of the portfolios below from large asset managers have mid cap funds, while the complex portfolio here does not. Avantis and DFA don't use a mid cap category: their small cap and large cap funds cover the entire range of market caps. So nothing is missing. You could include [AVMV](https://www.avantisinvestors.com/avantis-investments/avantis-us-mid-cap-value-etf/) in the complex portfolio to add more weight to mid cap stocks if you wanted.
+A reader might wonder why some of the portfolios below from large asset managers have mid cap funds, while the complex portfolio here does not. Small cap and large cap funds from Avantis and DFA cover the entire range of market caps. So nothing is missing. You could include [AVMV](https://www.avantisinvestors.com/avantis-investments/avantis-us-mid-cap-value-etf/) in the complex portfolio to add more weight to mid cap stocks if you wanted.
 
 &nbsp;
 
