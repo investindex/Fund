@@ -93,7 +93,7 @@ See the [section on taxes](https://github.com/investindex/Taxes#the-tax-issue-wi
 
 Potential additions to these portfolios, including asset classes beyond stocks and bonds, are discussed in the [advanced topics](https://github.com/investindex/Advanced). In particular, the diversification benefits of managed futures are impressive. We also cover real estate, gold, cryptocurrency, and other assets.
 
-A reader might wonder why some of the portfolios below from large asset managers have mid cap funds, while the complex portfolio here does not. Small cap and large cap funds from Avantis and DFA cover the entire range of market caps. So nothing is missing. You could include [AVMV](https://www.avantisinvestors.com/avantis-investments/avantis-us-mid-cap-value-etf/) in the complex portfolio to add more weight to mid cap stocks if you wanted.
+A reader might wonder why some of the portfolios below from large asset managers have mid cap funds, while the complex portfolio here does not. Small cap and large cap funds from Avantis and DFA cover the entire range of market caps. So nothing is missing. You could include [AVMV](https://www.avantisinvestors.com/avantis-investments/avantis-us-mid-cap-value-etf/) in the complex portfolio to add more weight to mid cap stocks if you wanted. [AVEE](https://www.avantisinvestors.com/avantis-investments/avantis-emerging-markets-small-cap-equity-etf/) is a factor-tilted fund that holds small cap stocks in emerging markets. Small cap EM stocks don't move the needle from a cap-weighted perspective but, if you like, you could include them (and maybe even overweight them a little) for the sake of diversification.
 
 &nbsp;
 
@@ -405,8 +405,6 @@ Some Schwab funds don't fit neatly into the summary table: their RAFI total US E
 &nbsp;
 
 When deciding on weights for developed vs. emerging markets, keep in mind that all the international single-factor funds that don't have "emerging" in their name invest exclusively in developed countries, except VTRIX.
-
-There are two ETFs for small cap stocks in emerging markets, [EEMS](https://www.ishares.com/us/products/239642/ishares-msci-emerging-markets-smallcap-etf) and [EWX](https://www.ssga.com/us/en/individual/etfs/funds/spdr-sp-emerging-markets-small-cap-etf-ewx). Without a filter for value or profitability, their high expense ratios suggest that these funds are not worth including at this time. The DFA emerging markets small cap fund [DEMSX](https://us.dimensional.com/funds/emerging-markets-small-cap) has had great historical returns and benefits from the factor exposure of all DFA funds, but it is not publicly accessible. Some would point out that [DGS](https://www.wisdomtree.com/etfs/equity/dgs), a small cap dividend ETF for emerging markets, provides some indirect exposure to value and profitability factors due to the dividend focus.
 
 BlackRock has an alternative to IUSV. This fund, [VLUE](https://www.ishares.com/us/products/251616/ishares-msci-usa-value-factor-etf), has a smaller number of holdings and a stronger value tilt than IUSV. [↩](#fn1)
 
