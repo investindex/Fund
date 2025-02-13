@@ -1,3 +1,5 @@
+I recently [started a Substack](https://rjwthree.substack.com/) to organize these ideas into more bite-size and easily readable posts. You can subscribe for free. I'll mainly be working there instead of maintaining and expanding this document.
+
 # Fund proposals
 
 The behemoth asset managers we'll review in this section are BlackRock, Vanguard, Fidelity, State Street, Schwab, and Invesco. You may choose to invest some or all of your money with these managers. However, except for straightforward cap-weighted funds, the products offered by the largest managers are not the best funds to build evidence-based portfolios.
